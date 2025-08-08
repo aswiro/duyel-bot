@@ -1,0 +1,9 @@
+2025-08-03 20:54:08 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/app.log
+2025-08-03 20:54:08 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-03 20:54:08 | INFO     | db.py:35 - Database connection closed
+2025-08-03 20:54:08 | ERROR    | db.py:43 - Redis closure failed: Event loop is closed
+2025-08-03 20:55:12 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/app.log
+2025-08-03 20:55:12 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-03 20:55:12 | INFO     | db.py:35 - Database connection closed
+2025-08-03 20:55:12 | ERROR    | db.py:43 - Redis closure failed: Event loop is closed
+2025-08-03 20:58:06 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/app.log

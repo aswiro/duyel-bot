@@ -1,0 +1,17 @@
+[project]
+name = "duyel-bot"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "aiogram-dialog[tools]>=2.4.0",
+    "aiogram[i18n]>=3.21.0",
+    "alembic>=1.16.4",
+    "asyncpg>=0.30.0",
+    "fluent-runtime>=0.4.0",
+    "loguru>=0.7.3",
+    "pydantic-settings>=2.10.1",
+    "redis>=6.2.0",
+    "sqlalchemy>=2.0.42",
+]

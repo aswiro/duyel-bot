@@ -1,0 +1,211 @@
+2025-08-03 21:00:24 | ERROR | core.db:close_database_redis:43 | Redis closure failed: Event loop is closed
+2025-08-03 21:02:26 | ERROR | core.db:close_database_redis:43 | Redis closure failed: Event loop is closed
+2025-08-03 21:11:34 | ERROR | database.repository:get:69 | Ошибка при получении User с ID 7122409059: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedColumnError'>: column users.telegram_id does not exist
+[SQL: SELECT users.id, users.telegram_id, users.username, users.first_name, users.last_name, users.phone, users.balance, users.wins, users.losses, users.referrer_id, users.created_at 
+FROM users 
+WHERE users.id = $1::BIGINT]
+[parameters: (7122409059,)]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-08-03 21:11:34 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedColumnError'>: column users.telegram_id does not exist
+[SQL: SELECT users.id, users.telegram_id, users.username, users.first_name, users.last_name, users.phone, users.balance, users.wins, users.losses, users.referrer_id, users.created_at 
+FROM users 
+WHERE users.id = $1::BIGINT]
+[parameters: (7122409059,)]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-08-03 21:17:12 | ERROR | database.core:drop_tables:123 | Ошибка при удалении таблиц: (sqlalchemy.dialects.postgresql.asyncpg.Error) <class 'asyncpg.exceptions.DependentObjectsStillExistError'>: cannot drop table users because other objects depend on it
+DETAIL:  constraint group_members_user_id_fkey on table group_members depends on table users
+constraint user_activity_user_id_fkey on table user_activity depends on table users
+constraint captcha_sessions_user_id_fkey on table captcha_sessions depends on table users
+constraint advertisers_user_id_fkey on table advertisers depends on table users
+constraint ad_creatives_moderator_id_fkey on table ad_creatives depends on table users
+constraint ad_analytics_user_id_fkey on table ad_analytics depends on table users
+constraint posts_created_by_fkey on table posts depends on table users
+constraint poll_votes_user_id_fkey on table poll_votes depends on table users
+HINT:  Use DROP ... CASCADE to drop the dependent objects too.
+[SQL: 
+DROP TABLE users]
+(Background on this error at: https://sqlalche.me/e/20/dbapi)
+2025-08-03 21:22:52 | ERROR | database.repository:get:69 | Ошибка при получении User с ID 7122409059: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedTableError'>: relation "users" does not exist
+[SQL: SELECT users.id, users.telegram_id, users.username, users.first_name, users.last_name, users.phone, users.balance, users.wins, users.losses, users.referrer_id, users.created_at 
+FROM users 
+WHERE users.id = $1::BIGINT]
+[parameters: (7122409059,)]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-08-03 21:22:52 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedTableError'>: relation "users" does not exist
+[SQL: SELECT users.id, users.telegram_id, users.username, users.first_name, users.last_name, users.phone, users.balance, users.wins, users.losses, users.referrer_id, users.created_at 
+FROM users 
+WHERE users.id = $1::BIGINT]
+[parameters: (7122409059,)]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-08-03 21:26:35 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: 'NoneType' object has no attribute 'language_code'
+2025-08-03 21:28:23 | ERROR | database.repository:get:69 | Ошибка при получении User с ID 514191314: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedColumnError'>: column users.language_code does not exist
+[SQL: SELECT users.id, users.telegram_id, users.username, users.first_name, users.last_name, users.phone, users.language_code, users.balance, users.wins, users.losses, users.referrer_id, users.created_at 
+FROM users 
+WHERE users.id = $1::BIGINT]
+[parameters: (514191314,)]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-08-03 21:28:23 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedColumnError'>: column users.language_code does not exist
+[SQL: SELECT users.id, users.telegram_id, users.username, users.first_name, users.last_name, users.phone, users.language_code, users.balance, users.wins, users.losses, users.referrer_id, users.created_at 
+FROM users 
+WHERE users.id = $1::BIGINT]
+[parameters: (514191314,)]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-08-03 21:28:56 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: 'NoneType' object has no attribute 'language_code'
+2025-08-03 21:30:25 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: 'NoneType' object has no attribute 'language_code'
+2025-08-03 21:31:05 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: 'NoneType' object has no attribute 'language_code'
+2025-08-03 21:35:18 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: 'User' object has no attribute 'phone'
+2025-08-03 21:35:41 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: 'User' object has no attribute 'phone_number'
+2025-08-03 21:36:13 | ERROR | database.repository:create:139 | Ошибка при создании User: 'last_active_at' is an invalid keyword argument for User
+2025-08-03 21:36:13 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: 'last_active_at' is an invalid keyword argument for User
+2025-08-03 21:38:42 | ERROR | database.repository:get:69 | Ошибка при получении User с ID 514191314: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedColumnError'>: column users.updated_at does not exist
+HINT:  Perhaps you meant to reference the column "users.created_at".
+[SQL: SELECT users.id, users.telegram_id, users.username, users.first_name, users.last_name, users.phone, users.language_code, users.balance, users.wins, users.losses, users.referrer_id, users.created_at, users.updated_at 
+FROM users 
+WHERE users.id = $1::BIGINT]
+[parameters: (514191314,)]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-08-03 21:38:42 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedColumnError'>: column users.updated_at does not exist
+HINT:  Perhaps you meant to reference the column "users.created_at".
+[SQL: SELECT users.id, users.telegram_id, users.username, users.first_name, users.last_name, users.phone, users.language_code, users.balance, users.wins, users.losses, users.referrer_id, users.created_at, users.updated_at 
+FROM users 
+WHERE users.id = $1::BIGINT]
+[parameters: (514191314,)]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-08-03 21:39:01 | ERROR | database.repository:create:139 | Ошибка при создании User: (sqlalchemy.dialects.postgresql.asyncpg.IntegrityError) <class 'asyncpg.exceptions.NotNullViolationError'>: null value in column "telegram_id" of relation "users" violates not-null constraint
+DETAIL:  Failing row contains (514191314, null, aswiro, aswiro, kai, null, ru, 0.00, 0, 0, null, 2025-08-03 16:39:01.147943+00, 2025-08-03 16:39:01.147943+00).
+[SQL: INSERT INTO users (id, telegram_id, username, first_name, last_name, phone, language_code, referrer_id, updated_at) VALUES ($1::BIGINT, $2::BIGINT, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR, $7::VARCHAR, $8::BIGINT, now()) RETURNING users.balance, users.wins, users.losses, users.created_at, users.updated_at]
+[parameters: (514191314, None, 'aswiro', 'aswiro', 'kai', None, 'ru', None)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-08-03 21:39:01 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: (sqlalchemy.dialects.postgresql.asyncpg.IntegrityError) <class 'asyncpg.exceptions.NotNullViolationError'>: null value in column "telegram_id" of relation "users" violates not-null constraint
+DETAIL:  Failing row contains (514191314, null, aswiro, aswiro, kai, null, ru, 0.00, 0, 0, null, 2025-08-03 16:39:01.147943+00, 2025-08-03 16:39:01.147943+00).
+[SQL: INSERT INTO users (id, telegram_id, username, first_name, last_name, phone, language_code, referrer_id, updated_at) VALUES ($1::BIGINT, $2::BIGINT, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR, $7::VARCHAR, $8::BIGINT, now()) RETURNING users.balance, users.wins, users.losses, users.created_at, users.updated_at]
+[parameters: (514191314, None, 'aswiro', 'aswiro', 'kai', None, 'ru', None)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-08-03 21:42:48 | ERROR | database.core:create_tables:109 | Ошибка при создании таблиц: Could not initialize target column for ForeignKey 'users.id' on table 'users': table 'users' has no column named 'id'
+2025-08-03 21:42:48 | ERROR | core.db:init_database:27 | Database initialization failed: Could not initialize target column for ForeignKey 'users.id' on table 'users': table 'users' has no column named 'id'
+2025-08-03 21:46:09 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: Unknown state group MySG
+2025-08-03 21:48:27 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: No window found for `<State 'UserStates:main_menu'>` Current state group is `UserStates`
+2025-08-03 21:50:20 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: No window found for `<State 'UserStates:menu'>` Current state group is `UserStates`
+2025-08-03 21:52:38 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: No window found for `<State 'UserStates:menu'>` Current state group is `UserStates`
+2025-08-03 21:53:00 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: No window found for `<State 'UserStates:menu'>` Current state group is `UserStates`
+2025-08-03 21:53:40 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: No window found for `<State 'UserStates:menu'>` Current state group is `UserStates`
+2025-08-03 21:54:28 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: No window found for `<State 'UserStates:menu'>` Current state group is `UserStates`
+2025-08-03 21:55:11 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: No window found for `<State 'UserStates:menu'>` Current state group is `UserStates`
+2025-08-03 21:55:56 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: 'User' object has no attribute 'is_bot'
+2025-08-03 21:56:40 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: 'l10n_change_language'
+2025-08-03 21:59:49 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: No window found for `<State 'UserStates:menu'>` Current state group is `UserStates`
+2025-08-03 22:02:59 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: Unknown state group AdminStates
+2025-08-03 22:03:25 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: No dialog found for `<StatesGroup 'AdminStates'>` (looking by state `<State 'AdminStates:main_menu'>`)
+2025-08-03 22:19:27 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: cmd_start() missing 1 required positional argument: 'dialog_manager'
+2025-08-03 22:34:31 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: No dialog found for `<StatesGroup 'AdminStates'>` (looking by state `<State 'AdminStates:main_menu'>`)
+2025-08-03 22:39:18 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: No dialog found for `<StatesGroup 'AdminStates'>` (looking by state `<State 'AdminStates:main_menu'>`)
+2025-08-03 22:40:05 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: No dialog found for `<StatesGroup 'AdminStates'>` (looking by state `<State 'AdminStates:main_menu'>`)
+2025-08-03 22:41:19 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: No window found for `<State 'UserStates:menu'>` Current state group is `UserStates`
+2025-08-03 22:41:21 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: No window found for `<State 'UserStates:menu'>` Current state group is `UserStates`
+2025-08-03 22:41:24 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: No window found for `<State 'UserStates:menu'>` Current state group is `UserStates`
+2025-08-03 22:49:59 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: No window found for `<State 'UserStates:menu'>` Current state group is `UserStates`
+2025-08-03 22:51:52 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: No window found for `<State 'UserStates:menu'>` Current state group is `UserStates`
+2025-08-03 22:56:30 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: No window found for `<State 'UserStates:menu'>` Current state group is `UserStates`
+2025-08-04 10:00:07 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: No window found for `<State 'DuelSG:user_menu'>` Current state group is `DuelSG`
+2025-08-04 10:00:16 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: No window found for `<State 'DuelSG:admin_menu'>` Current state group is `DuelSG`
+2025-08-04 10:01:19 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: No window found for `<State 'DuelSG:admin_menu'>` Current state group is `DuelSG`
+2025-08-04 10:01:27 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: No window found for `<State 'DuelSG:user_menu'>` Current state group is `DuelSG`
+2025-08-04 10:11:17 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: No window found for `<State 'DuelSG:user_menu'>` Current state group is `DuelSG`
+2025-08-04 10:14:02 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: No window found for `<State 'DuelSG:main_menu'>` Current state group is `DuelSG`
+2025-08-04 10:29:01 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: No window found for `<State 'DuelSG:main_menu'>` Current state group is `DuelSG`
+2025-08-04 10:33:25 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: 'l10n_change_language'
+2025-08-04 10:33:47 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: 'l10n_support'
+2025-08-04 10:38:17 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: 'Column' object has no attribute 'render_text'
+2025-08-04 10:39:50 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: 'Column' object has no attribute 'render_text'
+2025-08-04 10:40:39 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: 'Column' object has no attribute 'render_text'
+2025-08-04 10:44:38 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: No window found for `<State 'DuelSG:language_menu'>` Current state group is `DuelSG`
+2025-08-04 10:45:28 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: No window found for `<State 'DuelSG:main_menu'>` Current state group is `DuelSG`
+2025-08-04 10:55:06 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: No window found for `<State 'DuelSG:main_menu'>` Current state group is `DuelSG`
+2025-08-04 10:55:51 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: No window found for `<State 'DuelSG:main_menu'>` Current state group is `DuelSG`
+2025-08-04 11:04:26 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: No window found for `<State 'DuelSG:main_menu'>` Current state group is `DuelSG`
+2025-08-04 11:53:11 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: 'l10n_support'
+2025-08-04 11:58:47 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: 'l10n_support'
+2025-08-04 11:59:33 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: No window found for `<State 'DuelSG:support_menu'>` Current state group is `DuelSG`
+2025-08-04 11:59:44 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: 'l10n_choose_language'
+2025-08-04 12:02:25 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: 'l10n_choose_language'
+2025-08-04 12:03:16 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: 'l10n_back'
+2025-08-04 12:03:57 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: No window found for `<State 'DuelSG:support_menu'>` Current state group is `DuelSG`
+2025-08-04 16:31:56 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: 'i18n'
+2025-08-04 16:45:04 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: on_language_radio_changed() takes 3 positional arguments but 4 were given
+2025-08-04 16:45:14 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: on_language_radio_changed() takes 3 positional arguments but 4 were given
+2025-08-04 16:45:24 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: on_language_radio_changed() takes 3 positional arguments but 4 were given
+2025-08-04 16:53:57 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: Telegram server says - Bad Request: query is too old and response timeout expired or query ID is invalid
+2025-08-04 16:57:57 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: type object 'DuelSG' has no attribute 'language'
+2025-08-04 18:56:48 | ERROR | database.repository:create:139 | Ошибка при создании User: 'telegram_id' is an invalid keyword argument for User
+2025-08-04 18:56:48 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: 'telegram_id' is an invalid keyword argument for User
+2025-08-04 19:42:06 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: UnitOfWork.__init__() missing 1 required positional argument: 'session'
+2025-08-04 19:45:20 | ERROR | database.repository:get_multi:106 | Ошибка при получении списка Game: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedColumnError'>: column games.currency does not exist
+[SQL: SELECT games.id, games.player1_id, games.player2_id, games.winner_id, games.stake_amount, games.commission_amount, games.status, games.currency, games.created_at, games.finished_at 
+FROM games 
+WHERE games.status = $1::game_status_enum 
+ LIMIT $2::INTEGER OFFSET $3::INTEGER]
+[parameters: ('pending', 100, 0)]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-08-04 19:45:20 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedColumnError'>: column games.currency does not exist
+[SQL: SELECT games.id, games.player1_id, games.player2_id, games.winner_id, games.stake_amount, games.commission_amount, games.status, games.currency, games.created_at, games.finished_at 
+FROM games 
+WHERE games.status = $1::game_status_enum 
+ LIMIT $2::INTEGER OFFSET $3::INTEGER]
+[parameters: ('pending', 100, 0)]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-08-04 19:49:38 | ERROR | database.repository:get_multi:106 | Ошибка при получении списка Game: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedColumnError'>: column games.currency does not exist
+[SQL: SELECT games.id, games.player1_id, games.player2_id, games.winner_id, games.stake_amount, games.commission_amount, games.status, games.currency, games.created_at, games.finished_at 
+FROM games 
+WHERE games.status = $1::game_status_enum 
+ LIMIT $2::INTEGER OFFSET $3::INTEGER]
+[parameters: ('pending', 100, 0)]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-08-04 19:49:38 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedColumnError'>: column games.currency does not exist
+[SQL: SELECT games.id, games.player1_id, games.player2_id, games.winner_id, games.stake_amount, games.commission_amount, games.status, games.currency, games.created_at, games.finished_at 
+FROM games 
+WHERE games.status = $1::game_status_enum 
+ LIMIT $2::INTEGER OFFSET $3::INTEGER]
+[parameters: ('pending', 100, 0)]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-08-04 19:50:53 | ERROR | database.repository:get_multi:106 | Ошибка при получении списка Game: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedColumnError'>: column games.currency does not exist
+[SQL: SELECT games.id, games.player1_id, games.player2_id, games.winner_id, games.stake_amount, games.commission_amount, games.status, games.currency, games.created_at, games.finished_at 
+FROM games 
+WHERE games.status = $1::game_status_enum 
+ LIMIT $2::INTEGER OFFSET $3::INTEGER]
+[parameters: ('pending', 100, 0)]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-08-04 19:50:53 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedColumnError'>: column games.currency does not exist
+[SQL: SELECT games.id, games.player1_id, games.player2_id, games.winner_id, games.stake_amount, games.commission_amount, games.status, games.currency, games.created_at, games.finished_at 
+FROM games 
+WHERE games.status = $1::game_status_enum 
+ LIMIT $2::INTEGER OFFSET $3::INTEGER]
+[parameters: ('pending', 100, 0)]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-08-04 19:56:48 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: 'User' object has no attribute 'balance'
+2025-08-04 20:01:28 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: 'l10n_back'
+2025-08-04 20:05:23 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: 'l10n_back'
+2025-08-04 21:17:00 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: GameService.get_pending_games() got an unexpected keyword argument 'user_id'
+2025-08-04 21:28:43 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: UserService.get_user() missing 1 required positional argument: 'text'
+2025-08-04 23:17:38 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: Cannot switch to another state group. Current state: <State 'DuelSG:my_games_menu'>, asked for <State 'CreateGameSG:stake'>
+2025-08-04 23:25:51 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: Object of type Decimal is not JSON serializable
+2025-08-04 23:25:53 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: Object of type Decimal is not JSON serializable
+2025-08-04 23:25:56 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: Object of type Decimal is not JSON serializable
+2025-08-04 23:44:35 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: Cannot switch to another state group. Current state: <State 'CreateGameSG:stake'>, asked for <State 'DuelSG:my_games_menu'>
+2025-08-05 00:02:53 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: 'TextInput' object has no attribute 'process_callback'
+2025-08-05 18:49:10 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: Unknown state group CreateGameSG
+2025-08-05 18:49:10 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: Unknown state group CreateGameSG
+2025-08-05 18:49:10 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: Unknown state group CreateGameSG
+2025-08-05 18:49:10 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: Unknown state group CreateGameSG
+2025-08-05 18:49:13 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: Unknown state group CreateGameSG
+2025-08-05 19:07:49 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: 'l10n_back'
+2025-08-05 19:09:42 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: 'TextInput' object has no attribute 'process_callback'
+2025-08-05 19:16:46 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: 'TextInput' object has no attribute 'process_callback'
+2025-08-05 19:21:37 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: 'TextInput' object has no attribute 'process_callback'
+2025-08-05 19:24:46 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: 'TextInput' object has no attribute 'process_callback'
+2025-08-05 19:32:54 | ERROR | database.repository:create:139 | Ошибка при создании Game: 'creator_id' is an invalid keyword argument for Game
+2025-08-05 19:40:18 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: 'Game' object has no attribute 'stake'
+2025-08-05 19:41:22 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: 'Game' object has no attribute 'stake'
+2025-08-08 12:26:12 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: 'l10n_balance'
+2025-08-08 12:28:06 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: 'l10n_balance'
+2025-08-08 12:29:06 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: 'balance'
+2025-08-08 12:32:55 | ERROR | database.core:get_session:144 | Ошибка в сессии базы данных: 'balance'

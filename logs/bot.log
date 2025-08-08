@@ -1,0 +1,2094 @@
+2025-08-03 20:58:06 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-03 20:58:06 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-03 20:58:06 | INFO     | bot.py:38 - Starting bot
+2025-08-03 21:00:24 | INFO     | bot.py:47 - Bot stopped
+2025-08-03 21:00:24 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-03 21:00:24 | INFO     | db.py:35 - Database connection closed
+2025-08-03 21:00:24 | ERROR    | db.py:43 - Redis closure failed: Event loop is closed
+2025-08-03 21:02:22 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-03 21:02:22 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-03 21:02:22 | INFO     | bot.py:38 - Starting bot
+2025-08-03 21:02:26 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-03 21:02:26 | INFO     | db.py:35 - Database connection closed
+2025-08-03 21:02:26 | ERROR    | db.py:43 - Redis closure failed: Event loop is closed
+2025-08-03 21:03:58 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-03 21:03:58 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-03 21:03:58 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-03 21:03:58 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-03 21:03:58 | INFO     | db.py:16 - Redis initialized
+2025-08-03 21:03:58 | INFO     | bot.py:38 - Starting bot
+2025-08-03 21:04:00 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-03 21:04:00 | INFO     | db.py:35 - Database connection closed
+2025-08-03 21:04:00 | INFO     | db.py:41 - Redis connection closed
+2025-08-03 21:05:37 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-03 21:05:37 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-03 21:05:37 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-03 21:05:37 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-03 21:05:37 | INFO     | db.py:16 - Redis initialized
+2025-08-03 21:05:37 | INFO     | bot.py:38 - Starting bot
+2025-08-03 21:05:38 | INFO     | bot.py:46 - Bot stopped
+2025-08-03 21:05:38 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-03 21:05:38 | INFO     | db.py:35 - Database connection closed
+2025-08-03 21:05:38 | INFO     | db.py:41 - Redis connection closed
+2025-08-03 21:06:29 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-03 21:06:29 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-03 21:06:29 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-03 21:06:29 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-03 21:06:29 | INFO     | db.py:16 - Redis initialized
+2025-08-03 21:06:29 | INFO     | bot.py:38 - Starting bot
+2025-08-03 21:06:30 | INFO     | bot.py:46 - Bot stopped
+2025-08-03 21:06:30 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-03 21:06:30 | INFO     | db.py:35 - Database connection closed
+2025-08-03 21:10:51 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-03 21:10:51 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-03 21:10:51 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-03 21:10:51 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-03 21:10:51 | INFO     | db.py:16 - Redis initialized
+2025-08-03 21:10:51 | INFO     | bot.py:39 - Starting bot
+2025-08-03 21:10:55 | INFO     | bot.py:47 - Bot stopped
+2025-08-03 21:10:55 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-03 21:10:55 | INFO     | db.py:35 - Database connection closed
+2025-08-03 21:11:23 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-03 21:11:23 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-03 21:11:23 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-03 21:11:23 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-03 21:11:23 | INFO     | db.py:16 - Redis initialized
+2025-08-03 21:11:23 | INFO     | bot.py:39 - Starting bot
+2025-08-03 21:11:34 | ERROR    | repository.py:69 - Ошибка при получении User с ID 7122409059: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedColumnError'>: column users.telegram_id does not exist
+[SQL: SELECT users.id, users.telegram_id, users.username, users.first_name, users.last_name, users.phone, users.balance, users.wins, users.losses, users.referrer_id, users.created_at 
+FROM users 
+WHERE users.id = $1::BIGINT]
+[parameters: (7122409059,)]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-08-03 21:11:34 | ERROR    | core.py:144 - Ошибка в сессии базы данных: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedColumnError'>: column users.telegram_id does not exist
+[SQL: SELECT users.id, users.telegram_id, users.username, users.first_name, users.last_name, users.phone, users.balance, users.wins, users.losses, users.referrer_id, users.created_at 
+FROM users 
+WHERE users.id = $1::BIGINT]
+[parameters: (7122409059,)]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-08-03 21:11:59 | INFO     | bot.py:47 - Bot stopped
+2025-08-03 21:11:59 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-03 21:11:59 | INFO     | db.py:35 - Database connection closed
+2025-08-03 21:16:21 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-03 21:16:21 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-03 21:16:21 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-03 21:16:21 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-03 21:16:21 | INFO     | db.py:16 - Redis initialized
+2025-08-03 21:17:12 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-03 21:17:12 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-03 21:17:12 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-03 21:17:12 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-03 21:17:12 | INFO     | db.py:16 - Redis initialized
+2025-08-03 21:17:12 | ERROR    | core.py:123 - Ошибка при удалении таблиц: (sqlalchemy.dialects.postgresql.asyncpg.Error) <class 'asyncpg.exceptions.DependentObjectsStillExistError'>: cannot drop table users because other objects depend on it
+DETAIL:  constraint group_members_user_id_fkey on table group_members depends on table users
+constraint user_activity_user_id_fkey on table user_activity depends on table users
+constraint captcha_sessions_user_id_fkey on table captcha_sessions depends on table users
+constraint advertisers_user_id_fkey on table advertisers depends on table users
+constraint ad_creatives_moderator_id_fkey on table ad_creatives depends on table users
+constraint ad_analytics_user_id_fkey on table ad_analytics depends on table users
+constraint posts_created_by_fkey on table posts depends on table users
+constraint poll_votes_user_id_fkey on table poll_votes depends on table users
+HINT:  Use DROP ... CASCADE to drop the dependent objects too.
+[SQL: 
+DROP TABLE users]
+(Background on this error at: https://sqlalche.me/e/20/dbapi)
+2025-08-03 21:22:48 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-03 21:22:48 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-03 21:22:48 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-03 21:22:48 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-03 21:22:48 | INFO     | db.py:16 - Redis initialized
+2025-08-03 21:22:48 | INFO     | bot.py:39 - Starting bot
+2025-08-03 21:22:52 | ERROR    | repository.py:69 - Ошибка при получении User с ID 7122409059: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedTableError'>: relation "users" does not exist
+[SQL: SELECT users.id, users.telegram_id, users.username, users.first_name, users.last_name, users.phone, users.balance, users.wins, users.losses, users.referrer_id, users.created_at 
+FROM users 
+WHERE users.id = $1::BIGINT]
+[parameters: (7122409059,)]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-08-03 21:22:52 | ERROR    | core.py:144 - Ошибка в сессии базы данных: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedTableError'>: relation "users" does not exist
+[SQL: SELECT users.id, users.telegram_id, users.username, users.first_name, users.last_name, users.phone, users.balance, users.wins, users.losses, users.referrer_id, users.created_at 
+FROM users 
+WHERE users.id = $1::BIGINT]
+[parameters: (7122409059,)]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-08-03 21:23:30 | INFO     | bot.py:47 - Bot stopped
+2025-08-03 21:23:30 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-03 21:23:30 | INFO     | db.py:35 - Database connection closed
+2025-08-03 21:26:26 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-03 21:26:26 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-03 21:26:27 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-03 21:26:27 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-03 21:26:27 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-03 21:26:27 | INFO     | db.py:16 - Redis initialized
+2025-08-03 21:26:27 | INFO     | bot.py:39 - Starting bot
+2025-08-03 21:26:35 | ERROR    | core.py:144 - Ошибка в сессии базы данных: 'NoneType' object has no attribute 'language_code'
+2025-08-03 21:27:32 | INFO     | bot.py:47 - Bot stopped
+2025-08-03 21:27:32 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-03 21:27:32 | INFO     | db.py:34 - Database connection closed
+2025-08-03 21:28:16 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-03 21:28:16 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-03 21:28:16 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-03 21:28:16 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-03 21:28:16 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-03 21:28:16 | INFO     | db.py:16 - Redis initialized
+2025-08-03 21:28:16 | INFO     | bot.py:39 - Starting bot
+2025-08-03 21:28:23 | ERROR    | repository.py:69 - Ошибка при получении User с ID 514191314: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedColumnError'>: column users.language_code does not exist
+[SQL: SELECT users.id, users.telegram_id, users.username, users.first_name, users.last_name, users.phone, users.language_code, users.balance, users.wins, users.losses, users.referrer_id, users.created_at 
+FROM users 
+WHERE users.id = $1::BIGINT]
+[parameters: (514191314,)]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-08-03 21:28:23 | ERROR    | core.py:144 - Ошибка в сессии базы данных: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedColumnError'>: column users.language_code does not exist
+[SQL: SELECT users.id, users.telegram_id, users.username, users.first_name, users.last_name, users.phone, users.language_code, users.balance, users.wins, users.losses, users.referrer_id, users.created_at 
+FROM users 
+WHERE users.id = $1::BIGINT]
+[parameters: (514191314,)]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-08-03 21:28:51 | INFO     | bot.py:47 - Bot stopped
+2025-08-03 21:28:51 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-03 21:28:51 | INFO     | db.py:34 - Database connection closed
+2025-08-03 21:28:54 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-03 21:28:54 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-03 21:28:54 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-03 21:28:54 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-03 21:28:54 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-03 21:28:54 | INFO     | db.py:16 - Redis initialized
+2025-08-03 21:28:54 | INFO     | bot.py:39 - Starting bot
+2025-08-03 21:28:56 | ERROR    | core.py:144 - Ошибка в сессии базы данных: 'NoneType' object has no attribute 'language_code'
+2025-08-03 21:29:55 | INFO     | bot.py:47 - Bot stopped
+2025-08-03 21:29:55 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-03 21:29:55 | INFO     | db.py:34 - Database connection closed
+2025-08-03 21:30:24 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-03 21:30:24 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-03 21:30:24 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-03 21:30:24 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-03 21:30:24 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-03 21:30:24 | INFO     | db.py:16 - Redis initialized
+2025-08-03 21:30:24 | INFO     | bot.py:39 - Starting bot
+2025-08-03 21:30:25 | ERROR    | core.py:144 - Ошибка в сессии базы данных: 'NoneType' object has no attribute 'language_code'
+2025-08-03 21:30:58 | INFO     | bot.py:47 - Bot stopped
+2025-08-03 21:30:58 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-03 21:30:58 | INFO     | db.py:34 - Database connection closed
+2025-08-03 21:31:02 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-03 21:31:02 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-03 21:31:02 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-03 21:31:02 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-03 21:31:02 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-03 21:31:02 | INFO     | db.py:16 - Redis initialized
+2025-08-03 21:31:02 | INFO     | bot.py:39 - Starting bot
+2025-08-03 21:31:05 | ERROR    | core.py:144 - Ошибка в сессии базы данных: 'NoneType' object has no attribute 'language_code'
+2025-08-03 21:31:42 | INFO     | bot.py:47 - Bot stopped
+2025-08-03 21:31:42 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-03 21:31:42 | INFO     | db.py:34 - Database connection closed
+2025-08-03 21:32:41 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-03 21:32:41 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-03 21:32:41 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-03 21:32:41 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-03 21:32:41 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-03 21:32:41 | INFO     | db.py:16 - Redis initialized
+2025-08-03 21:32:41 | INFO     | bot.py:39 - Starting bot
+2025-08-03 21:35:13 | INFO     | bot.py:47 - Bot stopped
+2025-08-03 21:35:13 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-03 21:35:13 | INFO     | db.py:34 - Database connection closed
+2025-08-03 21:35:17 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-03 21:35:17 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-03 21:35:17 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-03 21:35:17 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-03 21:35:17 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-03 21:35:17 | INFO     | db.py:16 - Redis initialized
+2025-08-03 21:35:17 | INFO     | bot.py:39 - Starting bot
+2025-08-03 21:35:18 | ERROR    | core.py:144 - Ошибка в сессии базы данных: 'User' object has no attribute 'phone'
+2025-08-03 21:35:36 | INFO     | bot.py:47 - Bot stopped
+2025-08-03 21:35:36 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-03 21:35:36 | INFO     | db.py:34 - Database connection closed
+2025-08-03 21:35:40 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-03 21:35:40 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-03 21:35:40 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-03 21:35:40 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-03 21:35:40 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-03 21:35:40 | INFO     | db.py:16 - Redis initialized
+2025-08-03 21:35:40 | INFO     | bot.py:39 - Starting bot
+2025-08-03 21:35:41 | ERROR    | core.py:144 - Ошибка в сессии базы данных: 'User' object has no attribute 'phone_number'
+2025-08-03 21:35:59 | INFO     | bot.py:47 - Bot stopped
+2025-08-03 21:35:59 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-03 21:35:59 | INFO     | db.py:34 - Database connection closed
+2025-08-03 21:36:12 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-03 21:36:12 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-03 21:36:12 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-03 21:36:12 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-03 21:36:12 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-03 21:36:12 | INFO     | db.py:16 - Redis initialized
+2025-08-03 21:36:12 | INFO     | bot.py:39 - Starting bot
+2025-08-03 21:36:13 | ERROR    | repository.py:139 - Ошибка при создании User: 'last_active_at' is an invalid keyword argument for User
+2025-08-03 21:36:13 | ERROR    | core.py:144 - Ошибка в сессии базы данных: 'last_active_at' is an invalid keyword argument for User
+2025-08-03 21:38:22 | INFO     | bot.py:47 - Bot stopped
+2025-08-03 21:38:22 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-03 21:38:22 | INFO     | db.py:34 - Database connection closed
+2025-08-03 21:38:34 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-03 21:38:34 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-03 21:38:34 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-03 21:38:34 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-03 21:38:34 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-03 21:38:34 | INFO     | db.py:16 - Redis initialized
+2025-08-03 21:38:34 | INFO     | bot.py:39 - Starting bot
+2025-08-03 21:38:42 | ERROR    | repository.py:69 - Ошибка при получении User с ID 514191314: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedColumnError'>: column users.updated_at does not exist
+HINT:  Perhaps you meant to reference the column "users.created_at".
+[SQL: SELECT users.id, users.telegram_id, users.username, users.first_name, users.last_name, users.phone, users.language_code, users.balance, users.wins, users.losses, users.referrer_id, users.created_at, users.updated_at 
+FROM users 
+WHERE users.id = $1::BIGINT]
+[parameters: (514191314,)]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-08-03 21:38:42 | ERROR    | core.py:144 - Ошибка в сессии базы данных: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedColumnError'>: column users.updated_at does not exist
+HINT:  Perhaps you meant to reference the column "users.created_at".
+[SQL: SELECT users.id, users.telegram_id, users.username, users.first_name, users.last_name, users.phone, users.language_code, users.balance, users.wins, users.losses, users.referrer_id, users.created_at, users.updated_at 
+FROM users 
+WHERE users.id = $1::BIGINT]
+[parameters: (514191314,)]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-08-03 21:38:56 | INFO     | bot.py:47 - Bot stopped
+2025-08-03 21:38:56 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-03 21:38:56 | INFO     | db.py:34 - Database connection closed
+2025-08-03 21:38:59 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-03 21:38:59 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-03 21:38:59 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-03 21:38:59 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-03 21:38:59 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-03 21:38:59 | INFO     | db.py:16 - Redis initialized
+2025-08-03 21:38:59 | INFO     | bot.py:39 - Starting bot
+2025-08-03 21:39:01 | ERROR    | repository.py:139 - Ошибка при создании User: (sqlalchemy.dialects.postgresql.asyncpg.IntegrityError) <class 'asyncpg.exceptions.NotNullViolationError'>: null value in column "telegram_id" of relation "users" violates not-null constraint
+DETAIL:  Failing row contains (514191314, null, aswiro, aswiro, kai, null, ru, 0.00, 0, 0, null, 2025-08-03 16:39:01.147943+00, 2025-08-03 16:39:01.147943+00).
+[SQL: INSERT INTO users (id, telegram_id, username, first_name, last_name, phone, language_code, referrer_id, updated_at) VALUES ($1::BIGINT, $2::BIGINT, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR, $7::VARCHAR, $8::BIGINT, now()) RETURNING users.balance, users.wins, users.losses, users.created_at, users.updated_at]
+[parameters: (514191314, None, 'aswiro', 'aswiro', 'kai', None, 'ru', None)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-08-03 21:39:01 | ERROR    | core.py:144 - Ошибка в сессии базы данных: (sqlalchemy.dialects.postgresql.asyncpg.IntegrityError) <class 'asyncpg.exceptions.NotNullViolationError'>: null value in column "telegram_id" of relation "users" violates not-null constraint
+DETAIL:  Failing row contains (514191314, null, aswiro, aswiro, kai, null, ru, 0.00, 0, 0, null, 2025-08-03 16:39:01.147943+00, 2025-08-03 16:39:01.147943+00).
+[SQL: INSERT INTO users (id, telegram_id, username, first_name, last_name, phone, language_code, referrer_id, updated_at) VALUES ($1::BIGINT, $2::BIGINT, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR, $7::VARCHAR, $8::BIGINT, now()) RETURNING users.balance, users.wins, users.losses, users.created_at, users.updated_at]
+[parameters: (514191314, None, 'aswiro', 'aswiro', 'kai', None, 'ru', None)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-08-03 21:39:30 | INFO     | bot.py:47 - Bot stopped
+2025-08-03 21:39:30 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-03 21:39:30 | INFO     | db.py:34 - Database connection closed
+2025-08-03 21:41:09 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-03 21:41:09 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-03 21:41:09 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-03 21:41:09 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-03 21:41:09 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-03 21:41:09 | INFO     | db.py:16 - Redis initialized
+2025-08-03 21:41:09 | INFO     | bot.py:39 - Starting bot
+2025-08-03 21:41:31 | INFO     | bot.py:47 - Bot stopped
+2025-08-03 21:41:31 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-03 21:41:31 | INFO     | db.py:34 - Database connection closed
+2025-08-03 21:42:48 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-03 21:42:48 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-03 21:42:48 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-03 21:42:48 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-03 21:42:48 | ERROR    | core.py:109 - Ошибка при создании таблиц: Could not initialize target column for ForeignKey 'users.id' on table 'users': table 'users' has no column named 'id'
+2025-08-03 21:42:48 | ERROR    | db.py:27 - Database initialization failed: Could not initialize target column for ForeignKey 'users.id' on table 'users': table 'users' has no column named 'id'
+2025-08-03 21:42:48 | INFO     | db.py:16 - Redis initialized
+2025-08-03 21:42:48 | INFO     | bot.py:39 - Starting bot
+2025-08-03 21:44:12 | INFO     | bot.py:47 - Bot stopped
+2025-08-03 21:44:12 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-03 21:44:12 | INFO     | db.py:34 - Database connection closed
+2025-08-03 21:45:04 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-03 21:45:04 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-03 21:45:04 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-03 21:45:04 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-03 21:45:04 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-03 21:45:04 | INFO     | db.py:16 - Redis initialized
+2025-08-03 21:45:04 | INFO     | bot.py:39 - Starting bot
+2025-08-03 21:46:09 | ERROR    | core.py:144 - Ошибка в сессии базы данных: Unknown state group MySG
+2025-08-03 21:46:34 | INFO     | bot.py:47 - Bot stopped
+2025-08-03 21:46:34 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-03 21:46:34 | INFO     | db.py:34 - Database connection closed
+2025-08-03 21:48:25 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-03 21:48:25 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-03 21:48:25 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-03 21:48:25 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-03 21:48:25 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-03 21:48:25 | INFO     | db.py:16 - Redis initialized
+2025-08-03 21:48:25 | INFO     | bot.py:39 - Starting bot
+2025-08-03 21:48:27 | ERROR    | core.py:144 - Ошибка в сессии базы данных: No window found for `<State 'UserStates:main_menu'>` Current state group is `UserStates`
+2025-08-03 21:50:16 | INFO     | bot.py:47 - Bot stopped
+2025-08-03 21:50:16 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-03 21:50:16 | INFO     | db.py:34 - Database connection closed
+2025-08-03 21:50:20 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-03 21:50:20 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-03 21:50:20 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-03 21:50:20 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-03 21:50:20 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-03 21:50:20 | INFO     | db.py:16 - Redis initialized
+2025-08-03 21:50:20 | INFO     | bot.py:39 - Starting bot
+2025-08-03 21:50:20 | ERROR    | core.py:144 - Ошибка в сессии базы данных: No window found for `<State 'UserStates:menu'>` Current state group is `UserStates`
+2025-08-03 21:52:00 | INFO     | bot.py:47 - Bot stopped
+2025-08-03 21:52:00 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-03 21:52:00 | INFO     | db.py:34 - Database connection closed
+2025-08-03 21:52:36 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-03 21:52:36 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-03 21:52:36 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-03 21:52:36 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-03 21:52:36 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-03 21:52:36 | INFO     | db.py:16 - Redis initialized
+2025-08-03 21:52:36 | INFO     | bot.py:39 - Starting bot
+2025-08-03 21:52:38 | ERROR    | core.py:144 - Ошибка в сессии базы данных: No window found for `<State 'UserStates:menu'>` Current state group is `UserStates`
+2025-08-03 21:52:54 | INFO     | bot.py:47 - Bot stopped
+2025-08-03 21:52:54 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-03 21:52:54 | INFO     | db.py:34 - Database connection closed
+2025-08-03 21:52:58 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-03 21:52:58 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-03 21:52:58 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-03 21:52:58 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-03 21:52:58 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-03 21:52:58 | INFO     | db.py:16 - Redis initialized
+2025-08-03 21:52:58 | INFO     | bot.py:39 - Starting bot
+2025-08-03 21:53:00 | ERROR    | core.py:144 - Ошибка в сессии базы данных: No window found for `<State 'UserStates:menu'>` Current state group is `UserStates`
+2025-08-03 21:53:36 | INFO     | bot.py:47 - Bot stopped
+2025-08-03 21:53:36 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-03 21:53:36 | INFO     | db.py:34 - Database connection closed
+2025-08-03 21:53:39 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-03 21:53:39 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-03 21:53:39 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-03 21:53:39 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-03 21:53:39 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-03 21:53:39 | INFO     | db.py:16 - Redis initialized
+2025-08-03 21:53:39 | INFO     | bot.py:39 - Starting bot
+2025-08-03 21:53:40 | ERROR    | core.py:144 - Ошибка в сессии базы данных: No window found for `<State 'UserStates:menu'>` Current state group is `UserStates`
+2025-08-03 21:54:16 | INFO     | bot.py:47 - Bot stopped
+2025-08-03 21:54:16 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-03 21:54:16 | INFO     | db.py:34 - Database connection closed
+2025-08-03 21:54:19 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-03 21:54:19 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-03 21:54:19 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-03 21:54:19 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-03 21:54:19 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-03 21:54:19 | INFO     | db.py:16 - Redis initialized
+2025-08-03 21:54:19 | INFO     | bot.py:39 - Starting bot
+2025-08-03 21:54:28 | ERROR    | core.py:144 - Ошибка в сессии базы данных: No window found for `<State 'UserStates:menu'>` Current state group is `UserStates`
+2025-08-03 21:54:51 | INFO     | bot.py:47 - Bot stopped
+2025-08-03 21:54:51 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-03 21:54:51 | INFO     | db.py:34 - Database connection closed
+2025-08-03 21:55:09 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-03 21:55:09 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-03 21:55:09 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-03 21:55:09 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-03 21:55:09 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-03 21:55:09 | INFO     | db.py:16 - Redis initialized
+2025-08-03 21:55:09 | INFO     | bot.py:39 - Starting bot
+2025-08-03 21:55:11 | ERROR    | core.py:144 - Ошибка в сессии базы данных: No window found for `<State 'UserStates:menu'>` Current state group is `UserStates`
+2025-08-03 21:55:50 | INFO     | bot.py:47 - Bot stopped
+2025-08-03 21:55:50 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-03 21:55:50 | INFO     | db.py:34 - Database connection closed
+2025-08-03 21:55:54 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-03 21:55:54 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-03 21:55:54 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-03 21:55:54 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-03 21:55:54 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-03 21:55:54 | INFO     | db.py:16 - Redis initialized
+2025-08-03 21:55:54 | INFO     | bot.py:39 - Starting bot
+2025-08-03 21:55:56 | ERROR    | core.py:144 - Ошибка в сессии базы данных: 'User' object has no attribute 'is_bot'
+2025-08-03 21:56:35 | INFO     | bot.py:47 - Bot stopped
+2025-08-03 21:56:35 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-03 21:56:35 | INFO     | db.py:34 - Database connection closed
+2025-08-03 21:56:38 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-03 21:56:38 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-03 21:56:38 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-03 21:56:38 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-03 21:56:38 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-03 21:56:38 | INFO     | db.py:16 - Redis initialized
+2025-08-03 21:56:38 | INFO     | bot.py:39 - Starting bot
+2025-08-03 21:56:40 | ERROR    | core.py:144 - Ошибка в сессии базы данных: 'l10n_change_language'
+2025-08-03 21:58:52 | INFO     | bot.py:47 - Bot stopped
+2025-08-03 21:58:52 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-03 21:58:52 | INFO     | db.py:34 - Database connection closed
+2025-08-03 21:59:47 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-03 21:59:47 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-03 21:59:47 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-03 21:59:47 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-03 21:59:47 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-03 21:59:47 | INFO     | db.py:16 - Redis initialized
+2025-08-03 21:59:47 | INFO     | bot.py:39 - Starting bot
+2025-08-03 21:59:49 | ERROR    | core.py:144 - Ошибка в сессии базы данных: No window found for `<State 'UserStates:menu'>` Current state group is `UserStates`
+2025-08-03 22:01:31 | INFO     | bot.py:47 - Bot stopped
+2025-08-03 22:01:31 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-03 22:01:31 | INFO     | db.py:34 - Database connection closed
+2025-08-03 22:01:35 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-03 22:01:35 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-03 22:01:35 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-03 22:01:35 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-03 22:01:35 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-03 22:01:35 | INFO     | db.py:16 - Redis initialized
+2025-08-03 22:01:35 | INFO     | bot.py:39 - Starting bot
+2025-08-03 22:02:51 | INFO     | bot.py:47 - Bot stopped
+2025-08-03 22:02:51 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-03 22:02:51 | INFO     | db.py:34 - Database connection closed
+2025-08-03 22:02:54 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-03 22:02:54 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-03 22:02:55 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-03 22:02:55 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-03 22:02:55 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-03 22:02:55 | INFO     | db.py:16 - Redis initialized
+2025-08-03 22:02:55 | INFO     | bot.py:39 - Starting bot
+2025-08-03 22:02:59 | ERROR    | core.py:144 - Ошибка в сессии базы данных: Unknown state group AdminStates
+2025-08-03 22:03:16 | INFO     | bot.py:47 - Bot stopped
+2025-08-03 22:03:16 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-03 22:03:16 | INFO     | db.py:34 - Database connection closed
+2025-08-03 22:03:24 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-03 22:03:24 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-03 22:03:24 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-03 22:03:24 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-03 22:03:24 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-03 22:03:24 | INFO     | db.py:16 - Redis initialized
+2025-08-03 22:03:24 | INFO     | bot.py:39 - Starting bot
+2025-08-03 22:03:25 | ERROR    | core.py:144 - Ошибка в сессии базы данных: No dialog found for `<StatesGroup 'AdminStates'>` (looking by state `<State 'AdminStates:main_menu'>`)
+2025-08-03 22:03:55 | INFO     | bot.py:47 - Bot stopped
+2025-08-03 22:03:55 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-03 22:03:55 | INFO     | db.py:34 - Database connection closed
+2025-08-03 22:06:12 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-03 22:06:12 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-03 22:06:12 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-03 22:06:12 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-03 22:06:12 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-03 22:06:12 | INFO     | db.py:16 - Redis initialized
+2025-08-03 22:06:12 | INFO     | bot.py:39 - Starting bot
+2025-08-03 22:19:21 | INFO     | bot.py:47 - Bot stopped
+2025-08-03 22:19:21 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-03 22:19:21 | INFO     | db.py:34 - Database connection closed
+2025-08-03 22:19:25 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-03 22:19:25 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-03 22:19:25 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-03 22:19:25 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-03 22:19:25 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-03 22:19:25 | INFO     | db.py:16 - Redis initialized
+2025-08-03 22:19:25 | INFO     | bot.py:39 - Starting bot
+2025-08-03 22:19:27 | ERROR    | core.py:144 - Ошибка в сессии базы данных: cmd_start() missing 1 required positional argument: 'dialog_manager'
+2025-08-03 22:25:42 | INFO     | bot.py:47 - Bot stopped
+2025-08-03 22:25:42 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-03 22:25:42 | INFO     | db.py:34 - Database connection closed
+2025-08-03 22:25:46 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-03 22:25:46 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-03 22:25:46 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-03 22:25:46 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-03 22:25:47 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-03 22:25:47 | INFO     | db.py:16 - Redis initialized
+2025-08-03 22:25:47 | INFO     | bot.py:39 - Starting bot
+2025-08-03 22:25:48 | INFO     | users.py:22 - User 7122409059 started the bot
+2025-08-03 22:31:06 | INFO     | bot.py:47 - Bot stopped
+2025-08-03 22:31:06 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-03 22:31:06 | INFO     | db.py:34 - Database connection closed
+2025-08-03 22:31:10 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-03 22:31:10 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-03 22:31:10 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-03 22:31:10 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-03 22:31:10 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-03 22:31:10 | INFO     | db.py:16 - Redis initialized
+2025-08-03 22:31:10 | INFO     | bot.py:39 - Starting bot
+2025-08-03 22:32:39 | INFO     | bot.py:47 - Bot stopped
+2025-08-03 22:32:39 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-03 22:32:39 | INFO     | db.py:34 - Database connection closed
+2025-08-03 22:34:09 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-03 22:34:09 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-03 22:34:09 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-03 22:34:09 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-03 22:34:09 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-03 22:34:09 | INFO     | db.py:16 - Redis initialized
+2025-08-03 22:34:09 | INFO     | bot.py:39 - Starting bot
+2025-08-03 22:34:31 | ERROR    | core.py:144 - Ошибка в сессии базы данных: No dialog found for `<StatesGroup 'AdminStates'>` (looking by state `<State 'AdminStates:main_menu'>`)
+2025-08-03 22:35:52 | INFO     | bot.py:47 - Bot stopped
+2025-08-03 22:35:52 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-03 22:35:52 | INFO     | db.py:34 - Database connection closed
+2025-08-03 22:39:16 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-03 22:39:16 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-03 22:39:16 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-03 22:39:16 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-03 22:39:16 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-03 22:39:16 | INFO     | db.py:16 - Redis initialized
+2025-08-03 22:39:16 | INFO     | bot.py:39 - Starting bot
+2025-08-03 22:39:18 | ERROR    | core.py:144 - Ошибка в сессии базы данных: No dialog found for `<StatesGroup 'AdminStates'>` (looking by state `<State 'AdminStates:main_menu'>`)
+2025-08-03 22:39:59 | INFO     | bot.py:47 - Bot stopped
+2025-08-03 22:39:59 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-03 22:39:59 | INFO     | db.py:34 - Database connection closed
+2025-08-03 22:40:03 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-03 22:40:03 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-03 22:40:03 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-03 22:40:03 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-03 22:40:03 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-03 22:40:03 | INFO     | db.py:16 - Redis initialized
+2025-08-03 22:40:03 | INFO     | bot.py:39 - Starting bot
+2025-08-03 22:40:05 | ERROR    | core.py:144 - Ошибка в сессии базы данных: No dialog found for `<StatesGroup 'AdminStates'>` (looking by state `<State 'AdminStates:main_menu'>`)
+2025-08-03 22:40:10 | INFO     | bot.py:47 - Bot stopped
+2025-08-03 22:40:10 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-03 22:40:10 | INFO     | db.py:34 - Database connection closed
+2025-08-03 22:41:08 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-03 22:41:08 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-03 22:41:08 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-03 22:41:08 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-03 22:41:08 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-03 22:41:08 | INFO     | db.py:16 - Redis initialized
+2025-08-03 22:41:08 | INFO     | bot.py:39 - Starting bot
+2025-08-03 22:41:19 | ERROR    | core.py:144 - Ошибка в сессии базы данных: No window found for `<State 'UserStates:menu'>` Current state group is `UserStates`
+2025-08-03 22:41:21 | ERROR    | core.py:144 - Ошибка в сессии базы данных: No window found for `<State 'UserStates:menu'>` Current state group is `UserStates`
+2025-08-03 22:41:24 | ERROR    | core.py:144 - Ошибка в сессии базы данных: No window found for `<State 'UserStates:menu'>` Current state group is `UserStates`
+2025-08-03 22:41:44 | INFO     | bot.py:47 - Bot stopped
+2025-08-03 22:41:44 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-03 22:41:44 | INFO     | db.py:34 - Database connection closed
+2025-08-03 22:48:20 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-03 22:48:20 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-03 22:48:20 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-03 22:48:20 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-03 22:48:20 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-03 22:48:20 | INFO     | db.py:16 - Redis initialized
+2025-08-03 22:48:20 | INFO     | bot.py:39 - Starting bot
+2025-08-03 22:49:54 | INFO     | bot.py:47 - Bot stopped
+2025-08-03 22:49:54 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-03 22:49:54 | INFO     | db.py:34 - Database connection closed
+2025-08-03 22:49:57 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-03 22:49:57 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-03 22:49:57 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-03 22:49:57 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-03 22:49:57 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-03 22:49:57 | INFO     | db.py:16 - Redis initialized
+2025-08-03 22:49:57 | INFO     | bot.py:39 - Starting bot
+2025-08-03 22:49:59 | ERROR    | core.py:144 - Ошибка в сессии базы данных: No window found for `<State 'UserStates:menu'>` Current state group is `UserStates`
+2025-08-03 22:51:46 | INFO     | bot.py:47 - Bot stopped
+2025-08-03 22:51:46 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-03 22:51:46 | INFO     | db.py:34 - Database connection closed
+2025-08-03 22:51:50 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-03 22:51:50 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-03 22:51:50 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-03 22:51:50 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-03 22:51:50 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-03 22:51:50 | INFO     | db.py:16 - Redis initialized
+2025-08-03 22:51:50 | INFO     | bot.py:39 - Starting bot
+2025-08-03 22:51:52 | ERROR    | core.py:144 - Ошибка в сессии базы данных: No window found for `<State 'UserStates:menu'>` Current state group is `UserStates`
+2025-08-03 22:52:43 | INFO     | bot.py:47 - Bot stopped
+2025-08-03 22:52:43 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-03 22:52:43 | INFO     | db.py:34 - Database connection closed
+2025-08-03 22:56:28 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-03 22:56:28 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-03 22:56:28 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-03 22:56:28 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-03 22:56:28 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-03 22:56:28 | INFO     | db.py:16 - Redis initialized
+2025-08-03 22:56:28 | INFO     | bot.py:39 - Starting bot
+2025-08-03 22:56:30 | ERROR    | core.py:144 - Ошибка в сессии базы данных: No window found for `<State 'UserStates:menu'>` Current state group is `UserStates`
+2025-08-03 23:01:49 | INFO     | bot.py:47 - Bot stopped
+2025-08-03 23:01:49 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-03 23:01:49 | INFO     | db.py:34 - Database connection closed
+2025-08-04 09:59:53 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 09:59:53 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 09:59:53 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 09:59:53 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 09:59:53 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 09:59:53 | INFO     | db.py:16 - Redis initialized
+2025-08-04 09:59:53 | INFO     | bot.py:39 - Starting bot
+2025-08-04 10:00:07 | ERROR    | core.py:144 - Ошибка в сессии базы данных: No window found for `<State 'DuelSG:user_menu'>` Current state group is `DuelSG`
+2025-08-04 10:00:16 | ERROR    | core.py:144 - Ошибка в сессии базы данных: No window found for `<State 'DuelSG:admin_menu'>` Current state group is `DuelSG`
+2025-08-04 10:01:13 | INFO     | bot.py:47 - Bot stopped
+2025-08-04 10:01:13 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 10:01:13 | INFO     | db.py:34 - Database connection closed
+2025-08-04 10:01:17 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 10:01:17 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 10:01:17 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 10:01:17 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 10:01:17 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 10:01:17 | INFO     | db.py:16 - Redis initialized
+2025-08-04 10:01:17 | INFO     | bot.py:39 - Starting bot
+2025-08-04 10:01:19 | ERROR    | core.py:144 - Ошибка в сессии базы данных: No window found for `<State 'DuelSG:admin_menu'>` Current state group is `DuelSG`
+2025-08-04 10:01:27 | ERROR    | core.py:144 - Ошибка в сессии базы данных: No window found for `<State 'DuelSG:user_menu'>` Current state group is `DuelSG`
+2025-08-04 10:01:31 | INFO     | bot.py:47 - Bot stopped
+2025-08-04 10:01:31 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 10:01:31 | INFO     | db.py:34 - Database connection closed
+2025-08-04 10:11:12 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 10:11:12 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 10:11:12 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 10:11:12 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 10:11:12 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 10:11:12 | INFO     | db.py:16 - Redis initialized
+2025-08-04 10:11:12 | INFO     | bot.py:39 - Starting bot
+2025-08-04 10:11:17 | ERROR    | core.py:144 - Ошибка в сессии базы данных: No window found for `<State 'DuelSG:user_menu'>` Current state group is `DuelSG`
+2025-08-04 10:12:40 | INFO     | bot.py:47 - Bot stopped
+2025-08-04 10:12:40 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 10:12:40 | INFO     | db.py:34 - Database connection closed
+2025-08-04 10:13:55 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 10:13:55 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 10:13:55 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 10:13:55 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 10:13:55 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 10:13:55 | INFO     | db.py:16 - Redis initialized
+2025-08-04 10:13:55 | INFO     | bot.py:39 - Starting bot
+2025-08-04 10:14:02 | ERROR    | core.py:144 - Ошибка в сессии базы данных: No window found for `<State 'DuelSG:main_menu'>` Current state group is `DuelSG`
+2025-08-04 10:14:21 | INFO     | bot.py:47 - Bot stopped
+2025-08-04 10:14:21 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 10:14:21 | INFO     | db.py:34 - Database connection closed
+2025-08-04 10:28:31 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 10:28:31 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 10:28:31 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 10:28:31 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 10:28:31 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 10:28:31 | INFO     | db.py:16 - Redis initialized
+2025-08-04 10:28:31 | INFO     | bot.py:39 - Starting bot
+2025-08-04 10:29:01 | ERROR    | core.py:144 - Ошибка в сессии базы данных: No window found for `<State 'DuelSG:main_menu'>` Current state group is `DuelSG`
+2025-08-04 10:29:38 | INFO     | bot.py:47 - Bot stopped
+2025-08-04 10:29:38 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 10:29:38 | INFO     | db.py:34 - Database connection closed
+2025-08-04 10:33:22 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 10:33:22 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 10:33:22 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 10:33:22 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 10:33:22 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 10:33:22 | INFO     | db.py:16 - Redis initialized
+2025-08-04 10:33:23 | INFO     | bot.py:39 - Starting bot
+2025-08-04 10:33:25 | ERROR    | core.py:144 - Ошибка в сессии базы данных: 'l10n_change_language'
+2025-08-04 10:33:41 | INFO     | bot.py:47 - Bot stopped
+2025-08-04 10:33:41 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 10:33:41 | INFO     | db.py:34 - Database connection closed
+2025-08-04 10:33:45 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 10:33:45 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 10:33:45 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 10:33:45 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 10:33:45 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 10:33:45 | INFO     | db.py:16 - Redis initialized
+2025-08-04 10:33:45 | INFO     | bot.py:39 - Starting bot
+2025-08-04 10:33:47 | ERROR    | core.py:144 - Ошибка в сессии базы данных: 'l10n_support'
+2025-08-04 10:35:05 | INFO     | bot.py:47 - Bot stopped
+2025-08-04 10:35:05 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 10:35:05 | INFO     | db.py:34 - Database connection closed
+2025-08-04 10:35:08 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 10:35:08 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 10:35:08 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 10:35:08 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 10:35:08 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 10:35:08 | INFO     | db.py:16 - Redis initialized
+2025-08-04 10:35:08 | INFO     | bot.py:39 - Starting bot
+2025-08-04 10:38:12 | INFO     | bot.py:47 - Bot stopped
+2025-08-04 10:38:12 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 10:38:12 | INFO     | db.py:34 - Database connection closed
+2025-08-04 10:38:16 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 10:38:16 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 10:38:16 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 10:38:16 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 10:38:16 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 10:38:16 | INFO     | db.py:16 - Redis initialized
+2025-08-04 10:38:16 | INFO     | bot.py:39 - Starting bot
+2025-08-04 10:38:17 | ERROR    | core.py:144 - Ошибка в сессии базы данных: 'Column' object has no attribute 'render_text'
+2025-08-04 10:39:44 | INFO     | bot.py:47 - Bot stopped
+2025-08-04 10:39:44 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 10:39:44 | INFO     | db.py:34 - Database connection closed
+2025-08-04 10:39:47 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 10:39:47 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 10:39:47 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 10:39:47 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 10:39:47 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 10:39:47 | INFO     | db.py:16 - Redis initialized
+2025-08-04 10:39:47 | INFO     | bot.py:39 - Starting bot
+2025-08-04 10:39:50 | ERROR    | core.py:144 - Ошибка в сессии базы данных: 'Column' object has no attribute 'render_text'
+2025-08-04 10:39:58 | INFO     | bot.py:47 - Bot stopped
+2025-08-04 10:39:58 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 10:39:58 | INFO     | db.py:34 - Database connection closed
+2025-08-04 10:40:36 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 10:40:36 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 10:40:36 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 10:40:36 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 10:40:36 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 10:40:36 | INFO     | db.py:16 - Redis initialized
+2025-08-04 10:40:36 | INFO     | bot.py:39 - Starting bot
+2025-08-04 10:40:39 | ERROR    | core.py:144 - Ошибка в сессии базы данных: 'Column' object has no attribute 'render_text'
+2025-08-04 10:41:27 | INFO     | bot.py:47 - Bot stopped
+2025-08-04 10:41:27 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 10:41:27 | INFO     | db.py:34 - Database connection closed
+2025-08-04 10:41:30 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 10:41:30 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 10:41:30 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 10:41:30 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 10:41:30 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 10:41:30 | INFO     | db.py:16 - Redis initialized
+2025-08-04 10:41:30 | INFO     | bot.py:39 - Starting bot
+2025-08-04 10:41:37 | INFO     | bot.py:47 - Bot stopped
+2025-08-04 10:41:37 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 10:41:37 | INFO     | db.py:34 - Database connection closed
+2025-08-04 10:43:43 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 10:43:43 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 10:43:44 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 10:43:44 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 10:43:44 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 10:43:44 | INFO     | db.py:16 - Redis initialized
+2025-08-04 10:43:44 | INFO     | bot.py:39 - Starting bot
+2025-08-04 10:44:38 | ERROR    | core.py:144 - Ошибка в сессии базы данных: No window found for `<State 'DuelSG:language_menu'>` Current state group is `DuelSG`
+2025-08-04 10:45:23 | INFO     | bot.py:47 - Bot stopped
+2025-08-04 10:45:23 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 10:45:23 | INFO     | db.py:34 - Database connection closed
+2025-08-04 10:45:26 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 10:45:26 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 10:45:26 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 10:45:26 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 10:45:26 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 10:45:26 | INFO     | db.py:16 - Redis initialized
+2025-08-04 10:45:26 | INFO     | bot.py:39 - Starting bot
+2025-08-04 10:45:28 | ERROR    | core.py:144 - Ошибка в сессии базы данных: No window found for `<State 'DuelSG:main_menu'>` Current state group is `DuelSG`
+2025-08-04 10:46:52 | INFO     | bot.py:47 - Bot stopped
+2025-08-04 10:46:52 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 10:46:52 | INFO     | db.py:34 - Database connection closed
+2025-08-04 10:55:04 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 10:55:04 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 10:55:04 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 10:55:04 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 10:55:04 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 10:55:04 | INFO     | db.py:16 - Redis initialized
+2025-08-04 10:55:04 | INFO     | bot.py:39 - Starting bot
+2025-08-04 10:55:06 | ERROR    | core.py:144 - Ошибка в сессии базы данных: No window found for `<State 'DuelSG:main_menu'>` Current state group is `DuelSG`
+2025-08-04 10:55:44 | INFO     | bot.py:47 - Bot stopped
+2025-08-04 10:55:44 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 10:55:44 | INFO     | db.py:34 - Database connection closed
+2025-08-04 10:55:48 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 10:55:48 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 10:55:48 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 10:55:48 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 10:55:48 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 10:55:48 | INFO     | db.py:16 - Redis initialized
+2025-08-04 10:55:48 | INFO     | bot.py:39 - Starting bot
+2025-08-04 10:55:51 | ERROR    | core.py:144 - Ошибка в сессии базы данных: No window found for `<State 'DuelSG:main_menu'>` Current state group is `DuelSG`
+2025-08-04 10:55:54 | INFO     | bot.py:47 - Bot stopped
+2025-08-04 10:55:54 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 10:55:54 | INFO     | db.py:34 - Database connection closed
+2025-08-04 11:04:23 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 11:04:23 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 11:04:24 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 11:04:24 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 11:04:24 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 11:04:24 | INFO     | db.py:16 - Redis initialized
+2025-08-04 11:04:24 | INFO     | bot.py:39 - Starting bot
+2025-08-04 11:04:26 | ERROR    | core.py:144 - Ошибка в сессии базы данных: No window found for `<State 'DuelSG:main_menu'>` Current state group is `DuelSG`
+2025-08-04 11:04:31 | INFO     | bot.py:47 - Bot stopped
+2025-08-04 11:04:31 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 11:04:31 | INFO     | db.py:34 - Database connection closed
+2025-08-04 11:53:09 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 11:53:09 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 11:53:09 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 11:53:09 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 11:53:09 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 11:53:09 | INFO     | db.py:16 - Redis initialized
+2025-08-04 11:53:09 | INFO     | bot.py:39 - Starting bot
+2025-08-04 11:53:11 | ERROR    | core.py:144 - Ошибка в сессии базы данных: 'l10n_support'
+2025-08-04 11:53:52 | INFO     | bot.py:47 - Bot stopped
+2025-08-04 11:53:52 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 11:53:52 | INFO     | db.py:34 - Database connection closed
+2025-08-04 11:58:45 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 11:58:45 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 11:58:45 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 11:58:45 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 11:58:45 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 11:58:45 | INFO     | db.py:16 - Redis initialized
+2025-08-04 11:58:45 | INFO     | bot.py:39 - Starting bot
+2025-08-04 11:58:47 | ERROR    | core.py:144 - Ошибка в сессии базы данных: 'l10n_support'
+2025-08-04 11:59:14 | INFO     | bot.py:47 - Bot stopped
+2025-08-04 11:59:14 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 11:59:14 | INFO     | db.py:34 - Database connection closed
+2025-08-04 11:59:22 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 11:59:22 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 11:59:22 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 11:59:22 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 11:59:22 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 11:59:22 | INFO     | db.py:16 - Redis initialized
+2025-08-04 11:59:22 | INFO     | bot.py:39 - Starting bot
+2025-08-04 11:59:33 | ERROR    | core.py:144 - Ошибка в сессии базы данных: No window found for `<State 'DuelSG:support_menu'>` Current state group is `DuelSG`
+2025-08-04 11:59:44 | ERROR    | core.py:144 - Ошибка в сессии базы данных: 'l10n_choose_language'
+2025-08-04 11:59:53 | INFO     | bot.py:47 - Bot stopped
+2025-08-04 11:59:53 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 11:59:53 | INFO     | db.py:34 - Database connection closed
+2025-08-04 12:02:21 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 12:02:21 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 12:02:21 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 12:02:21 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 12:02:21 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 12:02:21 | INFO     | db.py:16 - Redis initialized
+2025-08-04 12:02:21 | INFO     | bot.py:39 - Starting bot
+2025-08-04 12:02:25 | ERROR    | core.py:144 - Ошибка в сессии базы данных: 'l10n_choose_language'
+2025-08-04 12:03:03 | INFO     | bot.py:47 - Bot stopped
+2025-08-04 12:03:03 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 12:03:03 | INFO     | db.py:34 - Database connection closed
+2025-08-04 12:03:13 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 12:03:13 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 12:03:13 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 12:03:13 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 12:03:13 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 12:03:13 | INFO     | db.py:16 - Redis initialized
+2025-08-04 12:03:13 | INFO     | bot.py:39 - Starting bot
+2025-08-04 12:03:16 | ERROR    | core.py:144 - Ошибка в сессии базы данных: 'l10n_back'
+2025-08-04 12:03:38 | INFO     | bot.py:47 - Bot stopped
+2025-08-04 12:03:38 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 12:03:38 | INFO     | db.py:34 - Database connection closed
+2025-08-04 12:03:47 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 12:03:47 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 12:03:47 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 12:03:47 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 12:03:47 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 12:03:47 | INFO     | db.py:16 - Redis initialized
+2025-08-04 12:03:47 | INFO     | bot.py:39 - Starting bot
+2025-08-04 12:03:57 | ERROR    | core.py:144 - Ошибка в сессии базы данных: No window found for `<State 'DuelSG:support_menu'>` Current state group is `DuelSG`
+2025-08-04 12:04:05 | INFO     | bot.py:47 - Bot stopped
+2025-08-04 12:04:05 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 12:04:05 | INFO     | db.py:34 - Database connection closed
+2025-08-04 12:07:09 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 12:07:09 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 12:07:09 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 12:07:09 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 12:07:09 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 12:07:09 | INFO     | db.py:16 - Redis initialized
+2025-08-04 12:07:09 | INFO     | bot.py:39 - Starting bot
+2025-08-04 12:08:00 | INFO     | bot.py:47 - Bot stopped
+2025-08-04 12:08:00 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 12:08:00 | INFO     | db.py:34 - Database connection closed
+2025-08-04 12:09:50 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 12:09:50 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 12:09:50 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 12:09:50 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 12:09:50 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 12:09:50 | INFO     | db.py:16 - Redis initialized
+2025-08-04 12:09:50 | INFO     | bot.py:39 - Starting bot
+2025-08-04 12:09:55 | INFO     | bot.py:47 - Bot stopped
+2025-08-04 12:09:55 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 12:09:55 | INFO     | db.py:34 - Database connection closed
+2025-08-04 14:47:08 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 14:47:08 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 14:47:08 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 14:47:08 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 14:47:08 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 14:47:08 | INFO     | db.py:16 - Redis initialized
+2025-08-04 14:47:08 | INFO     | bot.py:39 - Starting bot
+2025-08-04 15:37:01 | INFO     | bot.py:47 - Bot stopped
+2025-08-04 15:37:01 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 15:37:01 | INFO     | db.py:34 - Database connection closed
+2025-08-04 15:37:05 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 15:37:05 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 15:37:05 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 15:37:05 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 15:37:05 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 15:37:05 | INFO     | db.py:16 - Redis initialized
+2025-08-04 15:37:05 | INFO     | bot.py:39 - Starting bot
+2025-08-04 15:43:40 | INFO     | bot.py:47 - Bot stopped
+2025-08-04 15:43:40 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 15:43:40 | INFO     | db.py:34 - Database connection closed
+2025-08-04 16:26:00 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 16:26:00 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 16:26:00 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 16:26:00 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 16:26:00 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 16:26:00 | INFO     | db.py:16 - Redis initialized
+2025-08-04 16:26:00 | INFO     | bot.py:38 - Starting bot
+2025-08-04 16:26:25 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 16:26:25 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 16:26:25 | INFO     | db.py:34 - Database connection closed
+2025-08-04 16:26:28 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 16:26:28 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 16:26:28 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 16:26:28 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 16:26:28 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 16:26:28 | INFO     | db.py:16 - Redis initialized
+2025-08-04 16:26:28 | INFO     | bot.py:38 - Starting bot
+2025-08-04 16:28:12 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 16:28:12 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 16:28:12 | INFO     | db.py:34 - Database connection closed
+2025-08-04 16:31:36 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 16:31:36 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 16:31:36 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 16:31:36 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 16:31:36 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 16:31:36 | INFO     | db.py:16 - Redis initialized
+2025-08-04 16:31:36 | INFO     | bot.py:38 - Starting bot
+2025-08-04 16:31:56 | ERROR    | core.py:144 - Ошибка в сессии базы данных: 'i18n'
+2025-08-04 16:32:53 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 16:32:53 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 16:32:53 | INFO     | db.py:34 - Database connection closed
+2025-08-04 16:32:56 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 16:32:56 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 16:32:56 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 16:32:56 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 16:32:56 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 16:32:56 | INFO     | db.py:16 - Redis initialized
+2025-08-04 16:32:56 | INFO     | bot.py:38 - Starting bot
+2025-08-04 16:33:08 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 16:33:08 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 16:33:08 | INFO     | db.py:34 - Database connection closed
+2025-08-04 16:37:09 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 16:37:09 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 16:37:09 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 16:37:09 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 16:37:09 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 16:37:09 | INFO     | db.py:16 - Redis initialized
+2025-08-04 16:37:09 | INFO     | bot.py:38 - Starting bot
+2025-08-04 16:37:45 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 16:37:45 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 16:37:45 | INFO     | db.py:34 - Database connection closed
+2025-08-04 16:37:50 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 16:37:50 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 16:37:50 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 16:37:50 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 16:37:50 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 16:37:50 | INFO     | db.py:16 - Redis initialized
+2025-08-04 16:37:50 | INFO     | bot.py:38 - Starting bot
+2025-08-04 16:38:42 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 16:38:42 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 16:38:42 | INFO     | db.py:34 - Database connection closed
+2025-08-04 16:38:46 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 16:38:46 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 16:38:46 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 16:38:46 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 16:38:46 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 16:38:46 | INFO     | db.py:16 - Redis initialized
+2025-08-04 16:38:46 | INFO     | bot.py:38 - Starting bot
+2025-08-04 16:44:51 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 16:44:51 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 16:44:51 | INFO     | db.py:34 - Database connection closed
+2025-08-04 16:44:54 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 16:44:54 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 16:44:54 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 16:44:54 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 16:44:54 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 16:44:54 | INFO     | db.py:16 - Redis initialized
+2025-08-04 16:44:54 | INFO     | bot.py:38 - Starting bot
+2025-08-04 16:45:04 | ERROR    | core.py:144 - Ошибка в сессии базы данных: on_language_radio_changed() takes 3 positional arguments but 4 were given
+2025-08-04 16:45:14 | ERROR    | core.py:144 - Ошибка в сессии базы данных: on_language_radio_changed() takes 3 positional arguments but 4 were given
+2025-08-04 16:45:24 | ERROR    | core.py:144 - Ошибка в сессии базы данных: on_language_radio_changed() takes 3 positional arguments but 4 were given
+2025-08-04 16:45:48 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 16:45:48 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 16:45:48 | INFO     | db.py:34 - Database connection closed
+2025-08-04 16:46:25 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 16:46:25 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 16:46:25 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 16:46:25 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 16:46:25 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 16:46:25 | INFO     | db.py:16 - Redis initialized
+2025-08-04 16:46:25 | INFO     | bot.py:38 - Starting bot
+2025-08-04 16:46:26 | INFO     | language.py:121 - Пользователь 7122409059 изменил язык на ru
+2025-08-04 16:46:31 | INFO     | language.py:121 - Пользователь 7122409059 изменил язык на en
+2025-08-04 16:47:33 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 16:47:33 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 16:47:33 | INFO     | db.py:34 - Database connection closed
+2025-08-04 16:47:36 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 16:47:36 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 16:47:36 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 16:47:36 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 16:47:37 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 16:47:37 | INFO     | db.py:16 - Redis initialized
+2025-08-04 16:47:37 | INFO     | bot.py:38 - Starting bot
+2025-08-04 16:47:46 | INFO     | language.py:121 - Пользователь 7122409059 изменил язык на ru
+2025-08-04 16:47:49 | INFO     | language.py:121 - Пользователь 7122409059 изменил язык на en
+2025-08-04 16:47:51 | INFO     | language.py:121 - Пользователь 7122409059 изменил язык на ru
+2025-08-04 16:48:17 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 16:48:17 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 16:48:17 | INFO     | db.py:34 - Database connection closed
+2025-08-04 16:50:16 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 16:50:16 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 16:50:16 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 16:50:16 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 16:50:16 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 16:50:16 | INFO     | db.py:16 - Redis initialized
+2025-08-04 16:50:16 | INFO     | bot.py:38 - Starting bot
+2025-08-04 16:50:19 | INFO     | language.py:121 - Пользователь 7122409059 изменил язык на en
+2025-08-04 16:50:38 | INFO     | language.py:121 - Пользователь 7122409059 изменил язык на ru
+2025-08-04 16:50:39 | INFO     | language.py:121 - Пользователь 7122409059 изменил язык на en
+2025-08-04 16:50:50 | INFO     | language.py:121 - Пользователь 7122409059 изменил язык на ru
+2025-08-04 16:51:02 | INFO     | language.py:121 - Пользователь 7122409059 изменил язык на en
+2025-08-04 16:51:10 | INFO     | language.py:121 - Пользователь 7122409059 изменил язык на ru
+2025-08-04 16:52:38 | INFO     | language.py:121 - Пользователь 7122409059 изменил язык на en
+2025-08-04 16:53:08 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 16:53:08 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 16:53:08 | INFO     | db.py:34 - Database connection closed
+2025-08-04 16:53:55 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 16:53:55 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 16:53:55 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 16:53:55 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 16:53:55 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 16:53:55 | INFO     | db.py:16 - Redis initialized
+2025-08-04 16:53:55 | INFO     | bot.py:38 - Starting bot
+2025-08-04 16:53:56 | INFO     | language.py:121 - Пользователь 7122409059 изменил язык на ru
+2025-08-04 16:53:57 | ERROR    | core.py:144 - Ошибка в сессии базы данных: Telegram server says - Bad Request: query is too old and response timeout expired or query ID is invalid
+2025-08-04 16:54:46 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 16:54:46 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 16:54:46 | INFO     | db.py:34 - Database connection closed
+2025-08-04 16:54:49 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 16:54:49 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 16:54:49 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 16:54:49 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 16:54:49 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 16:54:49 | INFO     | db.py:16 - Redis initialized
+2025-08-04 16:54:49 | INFO     | bot.py:38 - Starting bot
+2025-08-04 16:54:53 | INFO     | language.py:127 - Пользователь 7122409059 изменил язык на ru
+2025-08-04 16:54:56 | INFO     | language.py:127 - Пользователь 7122409059 изменил язык на en
+2025-08-04 16:55:27 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 16:55:27 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 16:55:27 | INFO     | db.py:34 - Database connection closed
+2025-08-04 16:55:30 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 16:55:30 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 16:55:30 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 16:55:30 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 16:55:30 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 16:55:30 | INFO     | db.py:16 - Redis initialized
+2025-08-04 16:55:30 | INFO     | bot.py:38 - Starting bot
+2025-08-04 16:55:37 | INFO     | language.py:127 - Пользователь 7122409059 изменил язык на ru
+2025-08-04 16:55:40 | INFO     | language.py:127 - Пользователь 7122409059 изменил язык на en
+2025-08-04 16:55:43 | INFO     | language.py:127 - Пользователь 7122409059 изменил язык на ru
+2025-08-04 16:55:49 | INFO     | language.py:127 - Пользователь 7122409059 изменил язык на en
+2025-08-04 16:56:12 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 16:56:12 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 16:56:12 | INFO     | db.py:34 - Database connection closed
+2025-08-04 16:56:15 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 16:56:15 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 16:56:15 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 16:56:15 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 16:56:15 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 16:56:15 | INFO     | db.py:16 - Redis initialized
+2025-08-04 16:56:15 | INFO     | bot.py:38 - Starting bot
+2025-08-04 16:56:21 | INFO     | language.py:127 - Пользователь 7122409059 изменил язык на ru
+2025-08-04 16:56:24 | INFO     | language.py:127 - Пользователь 7122409059 изменил язык на en
+2025-08-04 16:57:22 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 16:57:22 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 16:57:22 | INFO     | db.py:34 - Database connection closed
+2025-08-04 16:57:49 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 16:57:49 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 16:57:49 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 16:57:49 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 16:57:49 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 16:57:49 | INFO     | db.py:16 - Redis initialized
+2025-08-04 16:57:49 | INFO     | bot.py:38 - Starting bot
+2025-08-04 16:57:57 | INFO     | language.py:127 - Пользователь 7122409059 изменил язык на ru
+2025-08-04 16:57:57 | ERROR    | core.py:144 - Ошибка в сессии базы данных: type object 'DuelSG' has no attribute 'language'
+2025-08-04 16:58:25 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 16:58:25 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 16:58:25 | INFO     | db.py:34 - Database connection closed
+2025-08-04 16:58:28 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 16:58:28 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 16:58:28 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 16:58:28 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 16:58:28 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 16:58:28 | INFO     | db.py:16 - Redis initialized
+2025-08-04 16:58:28 | INFO     | bot.py:38 - Starting bot
+2025-08-04 16:58:32 | INFO     | language.py:127 - Пользователь 7122409059 изменил язык на ru
+2025-08-04 16:58:34 | INFO     | language.py:127 - Пользователь 7122409059 изменил язык на en
+2025-08-04 16:58:36 | INFO     | language.py:127 - Пользователь 7122409059 изменил язык на ru
+2025-08-04 16:58:38 | INFO     | language.py:127 - Пользователь 7122409059 изменил язык на en
+2025-08-04 17:00:31 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 17:00:31 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 17:00:31 | INFO     | db.py:34 - Database connection closed
+2025-08-04 17:00:34 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 17:00:34 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 17:00:34 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 17:00:34 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 17:00:34 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 17:00:34 | INFO     | db.py:16 - Redis initialized
+2025-08-04 17:00:34 | INFO     | bot.py:38 - Starting bot
+2025-08-04 17:01:07 | INFO     | language.py:127 - Пользователь 7122409059 изменил язык на ru
+2025-08-04 17:01:27 | INFO     | language.py:127 - Пользователь 7122409059 изменил язык на en
+2025-08-04 17:02:28 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 17:02:28 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 17:02:28 | INFO     | db.py:34 - Database connection closed
+2025-08-04 17:02:31 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 17:02:31 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 17:02:31 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 17:02:31 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 17:02:31 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 17:02:31 | INFO     | db.py:16 - Redis initialized
+2025-08-04 17:02:31 | INFO     | bot.py:38 - Starting bot
+2025-08-04 17:02:37 | INFO     | language.py:127 - Пользователь 7122409059 изменил язык на ru
+2025-08-04 17:02:41 | INFO     | language.py:127 - Пользователь 7122409059 изменил язык на en
+2025-08-04 17:02:44 | INFO     | language.py:127 - Пользователь 7122409059 изменил язык на ru
+2025-08-04 17:12:29 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 17:12:29 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 17:12:29 | INFO     | db.py:34 - Database connection closed
+2025-08-04 17:12:34 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 17:12:34 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 17:12:34 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 17:12:34 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 17:12:34 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 17:12:34 | INFO     | db.py:16 - Redis initialized
+2025-08-04 17:12:34 | INFO     | bot.py:38 - Starting bot
+2025-08-04 17:12:43 | INFO     | language.py:127 - Пользователь 7122409059 изменил язык на en
+2025-08-04 17:12:54 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 17:12:54 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 17:12:54 | INFO     | db.py:34 - Database connection closed
+2025-08-04 17:51:47 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 17:51:47 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 17:51:47 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 17:51:47 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 17:51:47 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 17:51:47 | INFO     | db.py:16 - Redis initialized
+2025-08-04 17:51:47 | INFO     | bot.py:38 - Starting bot
+2025-08-04 17:54:24 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 17:54:24 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 17:54:24 | INFO     | db.py:34 - Database connection closed
+2025-08-04 18:56:43 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 18:56:43 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 18:56:43 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 18:56:43 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 18:56:43 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 18:56:43 | INFO     | db.py:16 - Redis initialized
+2025-08-04 18:56:43 | INFO     | bot.py:38 - Starting bot
+2025-08-04 18:56:48 | ERROR    | repository.py:139 - Ошибка при создании User: 'telegram_id' is an invalid keyword argument for User
+2025-08-04 18:56:48 | ERROR    | core.py:144 - Ошибка в сессии базы данных: 'telegram_id' is an invalid keyword argument for User
+2025-08-04 18:57:30 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 18:57:30 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 18:57:30 | INFO     | db.py:34 - Database connection closed
+2025-08-04 18:57:35 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 18:57:35 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 18:57:35 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 18:57:35 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 18:57:35 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 18:57:35 | INFO     | db.py:16 - Redis initialized
+2025-08-04 18:57:35 | INFO     | bot.py:38 - Starting bot
+2025-08-04 18:57:48 | INFO     | language.py:127 - Пользователь 7122409059 изменил язык на ru
+2025-08-04 18:57:49 | INFO     | language.py:127 - Пользователь 7122409059 изменил язык на en
+2025-08-04 18:57:57 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 18:57:57 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 18:57:57 | INFO     | db.py:34 - Database connection closed
+2025-08-04 19:38:25 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 19:38:25 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 19:38:25 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 19:38:25 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 19:38:25 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 19:38:25 | INFO     | db.py:16 - Redis initialized
+2025-08-04 19:38:25 | INFO     | bot.py:38 - Starting bot
+2025-08-04 19:38:38 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 19:38:38 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 19:38:38 | INFO     | db.py:34 - Database connection closed
+2025-08-04 19:41:35 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 19:41:35 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 19:41:35 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 19:41:35 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 19:41:35 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 19:41:35 | INFO     | db.py:16 - Redis initialized
+2025-08-04 19:41:35 | INFO     | bot.py:38 - Starting bot
+2025-08-04 19:41:43 | INFO     | language.py:127 - Пользователь 7122409059 изменил язык на ru
+2025-08-04 19:41:51 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 19:41:51 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 19:41:51 | INFO     | db.py:34 - Database connection closed
+2025-08-04 19:42:00 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 19:42:00 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 19:42:00 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 19:42:00 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 19:42:00 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 19:42:00 | INFO     | db.py:16 - Redis initialized
+2025-08-04 19:42:00 | INFO     | bot.py:38 - Starting bot
+2025-08-04 19:42:06 | ERROR    | core.py:144 - Ошибка в сессии базы данных: UnitOfWork.__init__() missing 1 required positional argument: 'session'
+2025-08-04 19:42:40 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 19:42:40 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 19:42:40 | INFO     | db.py:34 - Database connection closed
+2025-08-04 19:45:13 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 19:45:13 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 19:45:14 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 19:45:14 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 19:45:14 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 19:45:14 | INFO     | db.py:16 - Redis initialized
+2025-08-04 19:45:14 | INFO     | bot.py:38 - Starting bot
+2025-08-04 19:45:20 | ERROR    | repository.py:106 - Ошибка при получении списка Game: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedColumnError'>: column games.currency does not exist
+[SQL: SELECT games.id, games.player1_id, games.player2_id, games.winner_id, games.stake_amount, games.commission_amount, games.status, games.currency, games.created_at, games.finished_at 
+FROM games 
+WHERE games.status = $1::game_status_enum 
+ LIMIT $2::INTEGER OFFSET $3::INTEGER]
+[parameters: ('pending', 100, 0)]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-08-04 19:45:20 | ERROR    | core.py:144 - Ошибка в сессии базы данных: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedColumnError'>: column games.currency does not exist
+[SQL: SELECT games.id, games.player1_id, games.player2_id, games.winner_id, games.stake_amount, games.commission_amount, games.status, games.currency, games.created_at, games.finished_at 
+FROM games 
+WHERE games.status = $1::game_status_enum 
+ LIMIT $2::INTEGER OFFSET $3::INTEGER]
+[parameters: ('pending', 100, 0)]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-08-04 19:47:47 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 19:47:47 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 19:47:47 | INFO     | db.py:34 - Database connection closed
+2025-08-04 19:49:31 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 19:49:31 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 19:49:31 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 19:49:31 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 19:49:31 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 19:49:31 | INFO     | db.py:16 - Redis initialized
+2025-08-04 19:49:31 | INFO     | bot.py:38 - Starting bot
+2025-08-04 19:49:38 | ERROR    | repository.py:106 - Ошибка при получении списка Game: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedColumnError'>: column games.currency does not exist
+[SQL: SELECT games.id, games.player1_id, games.player2_id, games.winner_id, games.stake_amount, games.commission_amount, games.status, games.currency, games.created_at, games.finished_at 
+FROM games 
+WHERE games.status = $1::game_status_enum 
+ LIMIT $2::INTEGER OFFSET $3::INTEGER]
+[parameters: ('pending', 100, 0)]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-08-04 19:49:38 | ERROR    | core.py:144 - Ошибка в сессии базы данных: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedColumnError'>: column games.currency does not exist
+[SQL: SELECT games.id, games.player1_id, games.player2_id, games.winner_id, games.stake_amount, games.commission_amount, games.status, games.currency, games.created_at, games.finished_at 
+FROM games 
+WHERE games.status = $1::game_status_enum 
+ LIMIT $2::INTEGER OFFSET $3::INTEGER]
+[parameters: ('pending', 100, 0)]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-08-04 19:49:44 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 19:49:44 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 19:49:44 | INFO     | db.py:34 - Database connection closed
+2025-08-04 19:50:47 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 19:50:47 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 19:50:47 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 19:50:47 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 19:50:47 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 19:50:47 | INFO     | db.py:16 - Redis initialized
+2025-08-04 19:50:47 | INFO     | bot.py:38 - Starting bot
+2025-08-04 19:50:53 | ERROR    | repository.py:106 - Ошибка при получении списка Game: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedColumnError'>: column games.currency does not exist
+[SQL: SELECT games.id, games.player1_id, games.player2_id, games.winner_id, games.stake_amount, games.commission_amount, games.status, games.currency, games.created_at, games.finished_at 
+FROM games 
+WHERE games.status = $1::game_status_enum 
+ LIMIT $2::INTEGER OFFSET $3::INTEGER]
+[parameters: ('pending', 100, 0)]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-08-04 19:50:53 | ERROR    | core.py:144 - Ошибка в сессии базы данных: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedColumnError'>: column games.currency does not exist
+[SQL: SELECT games.id, games.player1_id, games.player2_id, games.winner_id, games.stake_amount, games.commission_amount, games.status, games.currency, games.created_at, games.finished_at 
+FROM games 
+WHERE games.status = $1::game_status_enum 
+ LIMIT $2::INTEGER OFFSET $3::INTEGER]
+[parameters: ('pending', 100, 0)]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-08-04 19:51:26 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 19:51:26 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 19:51:26 | INFO     | db.py:34 - Database connection closed
+2025-08-04 19:51:43 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 19:51:43 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 19:51:43 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 19:51:43 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 19:51:43 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 19:51:43 | INFO     | db.py:16 - Redis initialized
+2025-08-04 19:51:43 | INFO     | bot.py:38 - Starting bot
+2025-08-04 19:52:21 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 19:52:21 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 19:52:21 | INFO     | db.py:34 - Database connection closed
+2025-08-04 19:52:25 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 19:52:25 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 19:52:25 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 19:52:25 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 19:52:25 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 19:52:25 | INFO     | db.py:16 - Redis initialized
+2025-08-04 19:52:25 | INFO     | bot.py:38 - Starting bot
+2025-08-04 19:53:19 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 19:53:19 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 19:53:19 | INFO     | db.py:34 - Database connection closed
+2025-08-04 19:53:33 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 19:53:33 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 19:53:33 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 19:53:33 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 19:53:33 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 19:53:33 | INFO     | db.py:16 - Redis initialized
+2025-08-04 19:53:33 | INFO     | bot.py:38 - Starting bot
+2025-08-04 19:54:23 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 19:54:23 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 19:54:23 | INFO     | db.py:34 - Database connection closed
+2025-08-04 19:56:20 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 19:56:20 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 19:56:20 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 19:56:20 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 19:56:20 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 19:56:20 | INFO     | db.py:16 - Redis initialized
+2025-08-04 19:56:20 | INFO     | bot.py:38 - Starting bot
+2025-08-04 19:56:48 | ERROR    | core.py:144 - Ошибка в сессии базы данных: 'User' object has no attribute 'balance'
+2025-08-04 19:57:02 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 19:57:02 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 19:57:02 | INFO     | db.py:34 - Database connection closed
+2025-08-04 20:01:26 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 20:01:26 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 20:01:26 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 20:01:26 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 20:01:26 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 20:01:26 | INFO     | db.py:16 - Redis initialized
+2025-08-04 20:01:26 | INFO     | bot.py:38 - Starting bot
+2025-08-04 20:01:28 | ERROR    | core.py:144 - Ошибка в сессии базы данных: 'l10n_back'
+2025-08-04 20:03:12 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 20:03:12 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 20:03:12 | INFO     | db.py:34 - Database connection closed
+2025-08-04 20:05:18 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 20:05:18 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 20:05:18 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 20:05:18 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 20:05:18 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 20:05:18 | INFO     | db.py:16 - Redis initialized
+2025-08-04 20:05:18 | INFO     | bot.py:38 - Starting bot
+2025-08-04 20:05:23 | ERROR    | core.py:144 - Ошибка в сессии базы данных: 'l10n_back'
+2025-08-04 20:06:17 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 20:06:17 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 20:06:17 | INFO     | db.py:34 - Database connection closed
+2025-08-04 20:06:20 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 20:06:20 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 20:06:20 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 20:06:20 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 20:06:20 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 20:06:20 | INFO     | db.py:16 - Redis initialized
+2025-08-04 20:06:20 | INFO     | bot.py:38 - Starting bot
+2025-08-04 20:08:35 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 20:08:35 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 20:08:35 | INFO     | db.py:34 - Database connection closed
+2025-08-04 21:16:47 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 21:16:47 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 21:16:47 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 21:16:47 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 21:16:47 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 21:16:47 | INFO     | db.py:16 - Redis initialized
+2025-08-04 21:16:47 | INFO     | bot.py:38 - Starting bot
+2025-08-04 21:17:00 | ERROR    | core.py:144 - Ошибка в сессии базы данных: GameService.get_pending_games() got an unexpected keyword argument 'user_id'
+2025-08-04 21:18:05 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 21:18:05 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 21:18:05 | INFO     | db.py:34 - Database connection closed
+2025-08-04 21:19:27 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 21:19:27 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 21:19:27 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 21:19:27 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 21:19:27 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 21:19:27 | INFO     | db.py:16 - Redis initialized
+2025-08-04 21:19:27 | INFO     | bot.py:38 - Starting bot
+2025-08-04 21:22:03 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 21:22:03 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 21:22:03 | INFO     | db.py:34 - Database connection closed
+2025-08-04 21:22:07 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 21:22:07 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 21:22:07 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 21:22:07 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 21:22:07 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 21:22:07 | INFO     | db.py:16 - Redis initialized
+2025-08-04 21:22:07 | INFO     | bot.py:38 - Starting bot
+2025-08-04 21:24:33 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 21:24:33 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 21:24:33 | INFO     | db.py:34 - Database connection closed
+2025-08-04 21:24:37 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 21:24:37 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 21:24:37 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 21:24:37 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 21:24:37 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 21:24:37 | INFO     | db.py:16 - Redis initialized
+2025-08-04 21:24:37 | INFO     | bot.py:38 - Starting bot
+2025-08-04 21:25:22 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 21:25:22 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 21:25:22 | INFO     | db.py:34 - Database connection closed
+2025-08-04 21:25:25 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 21:25:25 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 21:25:25 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 21:25:25 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 21:25:26 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 21:25:26 | INFO     | db.py:16 - Redis initialized
+2025-08-04 21:25:26 | INFO     | bot.py:38 - Starting bot
+2025-08-04 21:28:38 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 21:28:38 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 21:28:38 | INFO     | db.py:34 - Database connection closed
+2025-08-04 21:28:42 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 21:28:42 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 21:28:42 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 21:28:42 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 21:28:42 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 21:28:42 | INFO     | db.py:16 - Redis initialized
+2025-08-04 21:28:42 | INFO     | bot.py:38 - Starting bot
+2025-08-04 21:28:43 | ERROR    | core.py:144 - Ошибка в сессии базы данных: UserService.get_user() missing 1 required positional argument: 'text'
+2025-08-04 21:29:01 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 21:29:01 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 21:29:01 | INFO     | db.py:34 - Database connection closed
+2025-08-04 21:29:04 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 21:29:04 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 21:29:04 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 21:29:04 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 21:29:04 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 21:29:04 | INFO     | db.py:16 - Redis initialized
+2025-08-04 21:29:04 | INFO     | bot.py:38 - Starting bot
+2025-08-04 21:30:11 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 21:30:11 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 21:30:11 | INFO     | db.py:34 - Database connection closed
+2025-08-04 21:30:14 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 21:30:14 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 21:30:14 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 21:30:14 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 21:30:14 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 21:30:14 | INFO     | db.py:16 - Redis initialized
+2025-08-04 21:30:14 | INFO     | bot.py:38 - Starting bot
+2025-08-04 21:40:40 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 21:40:40 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 21:40:40 | INFO     | db.py:34 - Database connection closed
+2025-08-04 21:40:43 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 21:40:43 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 21:40:43 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 21:40:43 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 21:40:43 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 21:40:43 | INFO     | db.py:16 - Redis initialized
+2025-08-04 21:40:43 | INFO     | bot.py:38 - Starting bot
+2025-08-04 21:42:13 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 21:42:14 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 21:42:14 | INFO     | db.py:34 - Database connection closed
+2025-08-04 21:42:18 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 21:42:18 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 21:42:18 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 21:42:18 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 21:42:18 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 21:42:18 | INFO     | db.py:16 - Redis initialized
+2025-08-04 21:42:18 | INFO     | bot.py:38 - Starting bot
+2025-08-04 21:48:09 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 21:48:09 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 21:48:09 | INFO     | db.py:34 - Database connection closed
+2025-08-04 21:48:13 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 21:48:13 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 21:48:13 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 21:48:13 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 21:48:13 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 21:48:13 | INFO     | db.py:16 - Redis initialized
+2025-08-04 21:48:13 | INFO     | bot.py:38 - Starting bot
+2025-08-04 21:51:50 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 21:51:50 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 21:51:50 | INFO     | db.py:34 - Database connection closed
+2025-08-04 21:51:53 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 21:51:53 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 21:51:53 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 21:51:53 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 21:51:53 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 21:51:53 | INFO     | db.py:16 - Redis initialized
+2025-08-04 21:51:53 | INFO     | bot.py:38 - Starting bot
+2025-08-04 21:52:36 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 21:52:36 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 21:52:36 | INFO     | db.py:34 - Database connection closed
+2025-08-04 21:53:44 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 21:53:44 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 21:53:44 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 21:53:44 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 21:53:44 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 21:53:44 | INFO     | db.py:16 - Redis initialized
+2025-08-04 21:53:44 | INFO     | bot.py:38 - Starting bot
+2025-08-04 21:56:23 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 21:56:23 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 21:56:23 | INFO     | db.py:34 - Database connection closed
+2025-08-04 21:56:27 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 21:56:27 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 21:56:27 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 21:56:27 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 21:56:27 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 21:56:27 | INFO     | db.py:16 - Redis initialized
+2025-08-04 21:56:27 | INFO     | bot.py:38 - Starting bot
+2025-08-04 21:56:56 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 21:56:56 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 21:56:56 | INFO     | db.py:34 - Database connection closed
+2025-08-04 21:57:00 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 21:57:00 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 21:57:00 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 21:57:00 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 21:57:00 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 21:57:00 | INFO     | db.py:16 - Redis initialized
+2025-08-04 21:57:00 | INFO     | bot.py:38 - Starting bot
+2025-08-04 21:57:36 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 21:57:36 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 21:57:36 | INFO     | db.py:34 - Database connection closed
+2025-08-04 21:57:39 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 21:57:39 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 21:57:40 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 21:57:40 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 21:57:40 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 21:57:40 | INFO     | db.py:16 - Redis initialized
+2025-08-04 21:57:40 | INFO     | bot.py:38 - Starting bot
+2025-08-04 21:59:22 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 21:59:22 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 21:59:22 | INFO     | db.py:34 - Database connection closed
+2025-08-04 22:27:25 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 22:27:25 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 22:27:25 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 22:27:25 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 22:27:25 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 22:27:25 | INFO     | db.py:16 - Redis initialized
+2025-08-04 22:27:25 | INFO     | bot.py:38 - Starting bot
+2025-08-04 22:27:34 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 22:27:34 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 22:27:34 | INFO     | db.py:34 - Database connection closed
+2025-08-04 23:17:21 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 23:17:21 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 23:17:21 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 23:17:21 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 23:17:21 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 23:17:21 | INFO     | db.py:16 - Redis initialized
+2025-08-04 23:17:21 | INFO     | bot.py:38 - Starting bot
+2025-08-04 23:17:38 | ERROR    | core.py:144 - Ошибка в сессии базы данных: Cannot switch to another state group. Current state: <State 'DuelSG:my_games_menu'>, asked for <State 'CreateGameSG:stake'>
+2025-08-04 23:17:55 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 23:17:55 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 23:17:55 | INFO     | db.py:34 - Database connection closed
+2025-08-04 23:19:45 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 23:19:45 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 23:19:45 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 23:19:45 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 23:19:45 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 23:19:45 | INFO     | db.py:16 - Redis initialized
+2025-08-04 23:19:45 | INFO     | bot.py:38 - Starting bot
+2025-08-04 23:25:28 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 23:25:28 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 23:25:28 | INFO     | db.py:34 - Database connection closed
+2025-08-04 23:25:32 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 23:25:32 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 23:25:32 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 23:25:32 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 23:25:32 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 23:25:32 | INFO     | db.py:16 - Redis initialized
+2025-08-04 23:25:32 | INFO     | bot.py:38 - Starting bot
+2025-08-04 23:25:51 | ERROR    | core.py:144 - Ошибка в сессии базы данных: Object of type Decimal is not JSON serializable
+2025-08-04 23:25:53 | ERROR    | core.py:144 - Ошибка в сессии базы данных: Object of type Decimal is not JSON serializable
+2025-08-04 23:25:56 | ERROR    | core.py:144 - Ошибка в сессии базы данных: Object of type Decimal is not JSON serializable
+2025-08-04 23:26:06 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 23:26:06 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 23:26:06 | INFO     | db.py:34 - Database connection closed
+2025-08-04 23:30:59 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 23:30:59 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 23:30:59 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 23:30:59 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 23:30:59 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 23:30:59 | INFO     | db.py:16 - Redis initialized
+2025-08-04 23:30:59 | INFO     | bot.py:38 - Starting bot
+2025-08-04 23:32:45 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 23:32:45 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 23:32:45 | INFO     | db.py:34 - Database connection closed
+2025-08-04 23:32:50 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 23:32:50 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 23:32:50 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 23:32:50 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 23:32:50 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 23:32:50 | INFO     | db.py:16 - Redis initialized
+2025-08-04 23:32:50 | INFO     | bot.py:38 - Starting bot
+2025-08-04 23:33:24 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 23:33:24 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 23:33:24 | INFO     | db.py:34 - Database connection closed
+2025-08-04 23:39:15 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-04 23:39:15 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-04 23:39:15 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-04 23:39:15 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-04 23:39:15 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-04 23:39:15 | INFO     | db.py:16 - Redis initialized
+2025-08-04 23:39:15 | INFO     | bot.py:38 - Starting bot
+2025-08-04 23:44:35 | ERROR    | core.py:144 - Ошибка в сессии базы данных: Cannot switch to another state group. Current state: <State 'CreateGameSG:stake'>, asked for <State 'DuelSG:my_games_menu'>
+2025-08-04 23:44:53 | INFO     | bot.py:46 - Bot stopped
+2025-08-04 23:44:53 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-04 23:44:53 | INFO     | db.py:34 - Database connection closed
+2025-08-05 00:02:40 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-05 00:02:40 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-05 00:02:40 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-05 00:02:40 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-05 00:02:40 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-05 00:02:40 | INFO     | db.py:16 - Redis initialized
+2025-08-05 00:02:41 | INFO     | bot.py:38 - Starting bot
+2025-08-05 00:02:53 | ERROR    | core.py:144 - Ошибка в сессии базы данных: 'TextInput' object has no attribute 'process_callback'
+2025-08-05 00:03:29 | INFO     | bot.py:46 - Bot stopped
+2025-08-05 00:03:29 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-05 00:03:29 | INFO     | db.py:34 - Database connection closed
+2025-08-05 18:49:04 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-05 18:49:04 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-05 18:49:04 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-05 18:49:04 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-05 18:49:04 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-05 18:49:04 | INFO     | db.py:16 - Redis initialized
+2025-08-05 18:49:04 | INFO     | bot.py:38 - Starting bot
+2025-08-05 18:49:10 | ERROR    | core.py:144 - Ошибка в сессии базы данных: Unknown state group CreateGameSG
+2025-08-05 18:49:10 | ERROR    | core.py:144 - Ошибка в сессии базы данных: Unknown state group CreateGameSG
+2025-08-05 18:49:10 | ERROR    | core.py:144 - Ошибка в сессии базы данных: Unknown state group CreateGameSG
+2025-08-05 18:49:10 | ERROR    | core.py:144 - Ошибка в сессии базы данных: Unknown state group CreateGameSG
+2025-08-05 18:49:13 | ERROR    | core.py:144 - Ошибка в сессии базы данных: Unknown state group CreateGameSG
+2025-08-05 18:49:47 | INFO     | bot.py:46 - Bot stopped
+2025-08-05 18:49:47 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-05 18:49:47 | INFO     | db.py:34 - Database connection closed
+2025-08-05 19:07:40 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-05 19:07:40 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-05 19:07:40 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-05 19:07:40 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-05 19:07:40 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-05 19:07:40 | INFO     | db.py:16 - Redis initialized
+2025-08-05 19:07:40 | INFO     | bot.py:38 - Starting bot
+2025-08-05 19:07:49 | ERROR    | core.py:144 - Ошибка в сессии базы данных: 'l10n_back'
+2025-08-05 19:09:30 | INFO     | bot.py:46 - Bot stopped
+2025-08-05 19:09:30 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-05 19:09:30 | INFO     | db.py:34 - Database connection closed
+2025-08-05 19:09:35 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-05 19:09:35 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-05 19:09:35 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-05 19:09:35 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-05 19:09:35 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-05 19:09:35 | INFO     | db.py:16 - Redis initialized
+2025-08-05 19:09:35 | INFO     | bot.py:38 - Starting bot
+2025-08-05 19:09:42 | ERROR    | core.py:144 - Ошибка в сессии базы данных: 'TextInput' object has no attribute 'process_callback'
+2025-08-05 19:10:16 | INFO     | bot.py:46 - Bot stopped
+2025-08-05 19:10:16 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-05 19:10:16 | INFO     | db.py:34 - Database connection closed
+2025-08-05 19:16:42 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-05 19:16:42 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-05 19:16:42 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-05 19:16:42 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-05 19:16:42 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-05 19:16:42 | INFO     | db.py:16 - Redis initialized
+2025-08-05 19:16:42 | INFO     | bot.py:38 - Starting bot
+2025-08-05 19:16:46 | ERROR    | core.py:144 - Ошибка в сессии базы данных: 'TextInput' object has no attribute 'process_callback'
+2025-08-05 19:20:23 | INFO     | bot.py:46 - Bot stopped
+2025-08-05 19:20:23 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-05 19:20:23 | INFO     | db.py:34 - Database connection closed
+2025-08-05 19:20:28 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-05 19:20:28 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-05 19:20:28 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-05 19:20:28 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-05 19:20:28 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-05 19:20:28 | INFO     | db.py:16 - Redis initialized
+2025-08-05 19:20:28 | INFO     | bot.py:38 - Starting bot
+2025-08-05 19:21:29 | INFO     | bot.py:46 - Bot stopped
+2025-08-05 19:21:29 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-05 19:21:29 | INFO     | db.py:34 - Database connection closed
+2025-08-05 19:21:33 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-05 19:21:33 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-05 19:21:33 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-05 19:21:33 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-05 19:21:33 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-05 19:21:33 | INFO     | db.py:16 - Redis initialized
+2025-08-05 19:21:33 | INFO     | bot.py:38 - Starting bot
+2025-08-05 19:21:37 | ERROR    | core.py:144 - Ошибка в сессии базы данных: 'TextInput' object has no attribute 'process_callback'
+2025-08-05 19:22:50 | INFO     | bot.py:46 - Bot stopped
+2025-08-05 19:22:50 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-05 19:22:50 | INFO     | db.py:34 - Database connection closed
+2025-08-05 19:22:53 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-05 19:22:53 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-05 19:22:53 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-05 19:22:53 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-05 19:22:53 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-05 19:22:53 | INFO     | db.py:16 - Redis initialized
+2025-08-05 19:22:53 | INFO     | bot.py:38 - Starting bot
+2025-08-05 19:23:16 | INFO     | bot.py:46 - Bot stopped
+2025-08-05 19:23:16 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-05 19:23:16 | INFO     | db.py:34 - Database connection closed
+2025-08-05 19:23:19 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-05 19:23:19 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-05 19:23:19 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-05 19:23:19 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-05 19:23:19 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-05 19:23:19 | INFO     | db.py:16 - Redis initialized
+2025-08-05 19:23:19 | INFO     | bot.py:38 - Starting bot
+2025-08-05 19:24:38 | INFO     | bot.py:46 - Bot stopped
+2025-08-05 19:24:38 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-05 19:24:38 | INFO     | db.py:34 - Database connection closed
+2025-08-05 19:24:41 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-05 19:24:41 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-05 19:24:41 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-05 19:24:41 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-05 19:24:42 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-05 19:24:42 | INFO     | db.py:16 - Redis initialized
+2025-08-05 19:24:42 | INFO     | bot.py:38 - Starting bot
+2025-08-05 19:24:46 | ERROR    | core.py:144 - Ошибка в сессии базы данных: 'TextInput' object has no attribute 'process_callback'
+2025-08-05 19:26:56 | INFO     | bot.py:46 - Bot stopped
+2025-08-05 19:26:56 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-05 19:26:56 | INFO     | db.py:34 - Database connection closed
+2025-08-05 19:29:04 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-05 19:29:04 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-05 19:29:04 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-05 19:29:04 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-05 19:29:04 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-05 19:29:04 | INFO     | db.py:16 - Redis initialized
+2025-08-05 19:29:04 | INFO     | bot.py:38 - Starting bot
+2025-08-05 19:29:40 | INFO     | bot.py:46 - Bot stopped
+2025-08-05 19:29:40 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-05 19:29:40 | INFO     | db.py:34 - Database connection closed
+2025-08-05 19:29:44 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-05 19:29:44 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-05 19:29:44 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-05 19:29:44 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-05 19:29:44 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-05 19:29:44 | INFO     | db.py:16 - Redis initialized
+2025-08-05 19:29:44 | INFO     | bot.py:38 - Starting bot
+2025-08-05 19:32:33 | INFO     | bot.py:46 - Bot stopped
+2025-08-05 19:32:33 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-05 19:32:33 | INFO     | db.py:34 - Database connection closed
+2025-08-05 19:32:36 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-05 19:32:36 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-05 19:32:36 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-05 19:32:36 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-05 19:32:36 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-05 19:32:36 | INFO     | db.py:16 - Redis initialized
+2025-08-05 19:32:36 | INFO     | bot.py:38 - Starting bot
+2025-08-05 19:32:54 | ERROR    | repository.py:139 - Ошибка при создании Game: 'creator_id' is an invalid keyword argument for Game
+2025-08-05 19:36:13 | INFO     | bot.py:46 - Bot stopped
+2025-08-05 19:36:13 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-05 19:36:13 | INFO     | db.py:34 - Database connection closed
+2025-08-05 19:37:21 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-05 19:37:21 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-05 19:37:21 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-05 19:37:21 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-05 19:37:21 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-05 19:37:21 | INFO     | db.py:16 - Redis initialized
+2025-08-05 19:37:21 | INFO     | bot.py:38 - Starting bot
+2025-08-05 19:39:30 | INFO     | bot.py:46 - Bot stopped
+2025-08-05 19:39:30 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-05 19:39:30 | INFO     | db.py:34 - Database connection closed
+2025-08-05 19:40:01 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-05 19:40:01 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-05 19:40:01 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-05 19:40:01 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-05 19:40:01 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-05 19:40:01 | INFO     | db.py:16 - Redis initialized
+2025-08-05 19:40:02 | INFO     | bot.py:38 - Starting bot
+2025-08-05 19:40:18 | ERROR    | core.py:144 - Ошибка в сессии базы данных: 'Game' object has no attribute 'stake'
+2025-08-05 19:40:52 | INFO     | bot.py:46 - Bot stopped
+2025-08-05 19:40:52 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-05 19:40:52 | INFO     | db.py:34 - Database connection closed
+2025-08-05 19:40:55 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-05 19:40:55 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-05 19:40:55 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-05 19:40:55 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-05 19:40:55 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-05 19:40:55 | INFO     | db.py:16 - Redis initialized
+2025-08-05 19:40:55 | INFO     | bot.py:38 - Starting bot
+2025-08-05 19:41:22 | ERROR    | core.py:144 - Ошибка в сессии базы данных: 'Game' object has no attribute 'stake'
+2025-08-05 19:41:36 | INFO     | bot.py:46 - Bot stopped
+2025-08-05 19:41:36 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-05 19:41:36 | INFO     | db.py:34 - Database connection closed
+2025-08-05 19:41:39 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-05 19:41:39 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-05 19:41:40 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-05 19:41:40 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-05 19:41:40 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-05 19:41:40 | INFO     | db.py:16 - Redis initialized
+2025-08-05 19:41:40 | INFO     | bot.py:38 - Starting bot
+2025-08-05 19:42:31 | INFO     | bot.py:46 - Bot stopped
+2025-08-05 19:42:31 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-05 19:42:31 | INFO     | db.py:34 - Database connection closed
+2025-08-05 19:51:27 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-05 19:51:27 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-05 19:51:27 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-05 19:51:27 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-05 19:51:27 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-05 19:51:27 | INFO     | db.py:16 - Redis initialized
+2025-08-05 19:51:27 | INFO     | bot.py:38 - Starting bot
+2025-08-05 19:56:04 | INFO     | bot.py:46 - Bot stopped
+2025-08-05 19:56:04 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-05 19:56:04 | INFO     | db.py:34 - Database connection closed
+2025-08-05 19:56:19 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-05 19:56:19 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-05 19:56:19 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-05 19:56:19 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-05 19:56:19 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-05 19:56:19 | INFO     | db.py:16 - Redis initialized
+2025-08-05 19:56:19 | INFO     | bot.py:38 - Starting bot
+2025-08-05 19:57:01 | INFO     | bot.py:46 - Bot stopped
+2025-08-05 19:57:01 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-05 19:57:01 | INFO     | db.py:34 - Database connection closed
+2025-08-05 19:58:28 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-05 19:58:28 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-05 19:58:28 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-05 19:58:28 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-05 19:58:28 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-05 19:58:28 | INFO     | db.py:16 - Redis initialized
+2025-08-05 19:58:28 | INFO     | bot.py:38 - Starting bot
+2025-08-05 19:59:58 | INFO     | bot.py:46 - Bot stopped
+2025-08-05 19:59:58 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-05 19:59:58 | INFO     | db.py:34 - Database connection closed
+2025-08-05 20:00:02 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-05 20:00:02 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-05 20:00:02 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-05 20:00:02 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-05 20:00:02 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-05 20:00:02 | INFO     | db.py:16 - Redis initialized
+2025-08-05 20:00:02 | INFO     | bot.py:38 - Starting bot
+2025-08-05 20:01:30 | INFO     | bot.py:46 - Bot stopped
+2025-08-05 20:01:30 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-05 20:01:30 | INFO     | db.py:34 - Database connection closed
+2025-08-05 20:01:33 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-05 20:01:33 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-05 20:01:33 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-05 20:01:33 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-05 20:01:33 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-05 20:01:33 | INFO     | db.py:16 - Redis initialized
+2025-08-05 20:01:34 | INFO     | bot.py:38 - Starting bot
+2025-08-05 20:03:36 | INFO     | bot.py:46 - Bot stopped
+2025-08-05 20:03:36 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-05 20:03:36 | INFO     | db.py:34 - Database connection closed
+2025-08-05 20:06:57 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-05 20:06:57 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-05 20:06:57 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-05 20:06:57 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-05 20:06:57 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-05 20:06:57 | INFO     | db.py:16 - Redis initialized
+2025-08-05 20:06:58 | INFO     | bot.py:38 - Starting bot
+2025-08-05 20:10:03 | INFO     | bot.py:46 - Bot stopped
+2025-08-05 20:10:03 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-05 20:10:03 | INFO     | db.py:34 - Database connection closed
+2025-08-05 20:13:21 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-05 20:13:21 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-05 20:13:21 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-05 20:13:21 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-05 20:13:21 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-05 20:13:21 | INFO     | db.py:16 - Redis initialized
+2025-08-05 20:13:21 | INFO     | bot.py:38 - Starting bot
+2025-08-05 20:14:53 | INFO     | bot.py:46 - Bot stopped
+2025-08-05 20:14:53 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-05 20:14:53 | INFO     | db.py:34 - Database connection closed
+2025-08-05 20:14:56 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-05 20:14:56 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-05 20:14:56 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-05 20:14:56 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-05 20:14:56 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-05 20:14:56 | INFO     | db.py:16 - Redis initialized
+2025-08-05 20:14:56 | INFO     | bot.py:38 - Starting bot
+2025-08-05 20:16:26 | INFO     | bot.py:46 - Bot stopped
+2025-08-05 20:16:26 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-05 20:16:26 | INFO     | db.py:34 - Database connection closed
+2025-08-05 20:16:29 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-05 20:16:29 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-05 20:16:29 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-05 20:16:29 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-05 20:16:29 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-05 20:16:29 | INFO     | db.py:16 - Redis initialized
+2025-08-05 20:16:29 | INFO     | bot.py:38 - Starting bot
+2025-08-05 20:16:59 | INFO     | bot.py:46 - Bot stopped
+2025-08-05 20:16:59 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-05 20:16:59 | INFO     | db.py:34 - Database connection closed
+2025-08-05 20:19:58 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-05 20:19:58 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-05 20:19:58 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-05 20:19:58 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-05 20:19:58 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-05 20:19:58 | INFO     | db.py:16 - Redis initialized
+2025-08-05 20:19:58 | INFO     | bot.py:38 - Starting bot
+2025-08-05 20:23:35 | INFO     | bot.py:46 - Bot stopped
+2025-08-05 20:23:35 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-05 20:23:35 | INFO     | db.py:34 - Database connection closed
+2025-08-05 20:23:39 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-05 20:23:39 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-05 20:23:39 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-05 20:23:39 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-05 20:23:39 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-05 20:23:39 | INFO     | db.py:16 - Redis initialized
+2025-08-05 20:23:39 | INFO     | bot.py:38 - Starting bot
+2025-08-05 20:28:54 | INFO     | bot.py:46 - Bot stopped
+2025-08-05 20:28:54 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-05 20:28:54 | INFO     | db.py:34 - Database connection closed
+2025-08-05 20:28:57 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-05 20:28:57 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-05 20:28:57 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-05 20:28:57 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-05 20:28:57 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-05 20:28:57 | INFO     | db.py:16 - Redis initialized
+2025-08-05 20:28:57 | INFO     | bot.py:38 - Starting bot
+2025-08-05 20:35:25 | INFO     | bot.py:46 - Bot stopped
+2025-08-05 20:35:25 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-05 20:35:25 | INFO     | db.py:34 - Database connection closed
+2025-08-05 20:35:29 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-05 20:35:29 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-05 20:35:29 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-05 20:35:29 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-05 20:35:29 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-05 20:35:29 | INFO     | db.py:16 - Redis initialized
+2025-08-05 20:35:29 | INFO     | bot.py:38 - Starting bot
+2025-08-05 20:37:22 | INFO     | bot.py:46 - Bot stopped
+2025-08-05 20:37:22 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-05 20:37:22 | INFO     | db.py:34 - Database connection closed
+2025-08-05 20:40:53 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-05 20:40:53 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-05 20:40:53 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-05 20:40:53 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-05 20:40:53 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-05 20:40:53 | INFO     | db.py:16 - Redis initialized
+2025-08-05 20:40:54 | INFO     | bot.py:38 - Starting bot
+2025-08-05 20:42:02 | INFO     | bot.py:46 - Bot stopped
+2025-08-05 20:42:02 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-05 20:42:02 | INFO     | db.py:34 - Database connection closed
+2025-08-05 20:48:10 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-05 20:48:10 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-05 20:48:10 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-05 20:48:10 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-05 20:48:10 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-05 20:48:10 | INFO     | db.py:16 - Redis initialized
+2025-08-05 20:48:10 | INFO     | bot.py:38 - Starting bot
+2025-08-05 20:48:14 | INFO     | bot.py:46 - Bot stopped
+2025-08-05 20:48:14 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-05 20:48:14 | INFO     | db.py:34 - Database connection closed
+2025-08-05 20:48:24 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-05 20:48:24 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-05 20:48:24 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-05 20:48:24 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-05 20:48:24 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-05 20:48:24 | INFO     | db.py:16 - Redis initialized
+2025-08-05 20:48:24 | INFO     | bot.py:38 - Starting bot
+2025-08-05 20:54:17 | INFO     | bot.py:46 - Bot stopped
+2025-08-05 20:54:17 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-05 20:54:17 | INFO     | db.py:34 - Database connection closed
+2025-08-05 20:54:21 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-05 20:54:21 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-05 20:54:21 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-05 20:54:21 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-05 20:54:21 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-05 20:54:21 | INFO     | db.py:16 - Redis initialized
+2025-08-05 20:54:21 | INFO     | bot.py:38 - Starting bot
+2025-08-05 20:54:34 | INFO     | language.py:127 - Пользователь 7122409059 изменил язык на ru
+2025-08-05 20:54:35 | INFO     | language.py:127 - Пользователь 7122409059 изменил язык на en
+2025-08-05 20:55:21 | INFO     | bot.py:46 - Bot stopped
+2025-08-05 20:55:21 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-05 20:55:21 | INFO     | db.py:34 - Database connection closed
+2025-08-05 20:55:26 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-05 20:55:26 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-05 20:55:26 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-05 20:55:26 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-05 20:55:26 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-05 20:55:26 | INFO     | db.py:16 - Redis initialized
+2025-08-05 20:55:26 | INFO     | bot.py:38 - Starting bot
+2025-08-05 20:58:07 | INFO     | bot.py:46 - Bot stopped
+2025-08-05 20:58:07 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-05 20:58:07 | INFO     | db.py:34 - Database connection closed
+2025-08-05 20:58:14 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-05 20:58:14 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-05 20:58:14 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-05 20:58:14 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-05 20:58:14 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-05 20:58:14 | INFO     | db.py:16 - Redis initialized
+2025-08-05 20:58:14 | INFO     | bot.py:38 - Starting bot
+2025-08-05 20:59:28 | INFO     | bot.py:46 - Bot stopped
+2025-08-05 20:59:28 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-05 20:59:28 | INFO     | db.py:34 - Database connection closed
+2025-08-05 20:59:32 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-05 20:59:32 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-05 20:59:32 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-05 20:59:32 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-05 20:59:32 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-05 20:59:32 | INFO     | db.py:16 - Redis initialized
+2025-08-05 20:59:32 | INFO     | bot.py:38 - Starting bot
+2025-08-05 21:00:04 | INFO     | bot.py:46 - Bot stopped
+2025-08-05 21:00:04 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-05 21:00:04 | INFO     | db.py:34 - Database connection closed
+2025-08-05 21:00:08 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-05 21:00:08 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-05 21:00:08 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-05 21:00:08 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-05 21:00:08 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-05 21:00:08 | INFO     | db.py:16 - Redis initialized
+2025-08-05 21:00:08 | INFO     | bot.py:38 - Starting bot
+2025-08-05 21:00:28 | INFO     | bot.py:46 - Bot stopped
+2025-08-05 21:00:28 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-05 21:00:28 | INFO     | db.py:34 - Database connection closed
+2025-08-05 21:00:32 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-05 21:00:32 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-05 21:00:32 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-05 21:00:32 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-05 21:00:32 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-05 21:00:32 | INFO     | db.py:16 - Redis initialized
+2025-08-05 21:00:32 | INFO     | bot.py:38 - Starting bot
+2025-08-05 21:05:03 | INFO     | bot.py:46 - Bot stopped
+2025-08-05 21:05:03 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-05 21:05:03 | INFO     | db.py:34 - Database connection closed
+2025-08-05 21:05:06 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-05 21:05:06 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-05 21:05:06 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-05 21:05:06 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-05 21:05:07 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-05 21:05:07 | INFO     | db.py:16 - Redis initialized
+2025-08-05 21:05:07 | INFO     | bot.py:38 - Starting bot
+2025-08-05 21:11:05 | INFO     | bot.py:46 - Bot stopped
+2025-08-05 21:11:05 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-05 21:11:05 | INFO     | db.py:34 - Database connection closed
+2025-08-05 21:11:09 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-05 21:11:09 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-05 21:11:09 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-05 21:11:09 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-05 21:11:09 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-05 21:11:09 | INFO     | db.py:16 - Redis initialized
+2025-08-05 21:11:09 | INFO     | bot.py:38 - Starting bot
+2025-08-05 21:15:21 | INFO     | bot.py:46 - Bot stopped
+2025-08-05 21:15:21 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-05 21:15:21 | INFO     | db.py:34 - Database connection closed
+2025-08-05 21:15:25 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-05 21:15:25 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-05 21:15:25 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-05 21:15:25 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-05 21:15:25 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-05 21:15:25 | INFO     | db.py:16 - Redis initialized
+2025-08-05 21:15:25 | INFO     | bot.py:38 - Starting bot
+2025-08-05 21:21:37 | INFO     | bot.py:46 - Bot stopped
+2025-08-05 21:21:37 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-05 21:21:37 | INFO     | db.py:34 - Database connection closed
+2025-08-05 21:21:46 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-05 21:21:46 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-05 21:21:46 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-05 21:21:46 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-05 21:21:46 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-05 21:21:46 | INFO     | db.py:16 - Redis initialized
+2025-08-05 21:21:46 | INFO     | bot.py:38 - Starting bot
+2025-08-05 21:23:19 | INFO     | bot.py:46 - Bot stopped
+2025-08-05 21:23:19 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-05 21:23:19 | INFO     | db.py:34 - Database connection closed
+2025-08-05 21:23:23 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-05 21:23:23 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-05 21:23:23 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-05 21:23:23 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-05 21:23:23 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-05 21:23:23 | INFO     | db.py:16 - Redis initialized
+2025-08-05 21:23:23 | INFO     | bot.py:38 - Starting bot
+2025-08-05 21:26:01 | INFO     | bot.py:46 - Bot stopped
+2025-08-05 21:26:01 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-05 21:26:01 | INFO     | db.py:34 - Database connection closed
+2025-08-05 21:26:06 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-05 21:26:06 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-05 21:26:06 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-05 21:26:06 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-05 21:26:06 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-05 21:26:06 | INFO     | db.py:16 - Redis initialized
+2025-08-05 21:26:06 | INFO     | bot.py:38 - Starting bot
+2025-08-05 21:34:55 | INFO     | bot.py:46 - Bot stopped
+2025-08-05 21:34:55 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-05 21:34:55 | INFO     | db.py:34 - Database connection closed
+2025-08-08 12:25:25 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-08 12:25:25 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-08 12:25:25 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-08 12:25:25 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-08 12:25:26 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-08 12:25:26 | INFO     | db.py:16 - Redis initialized
+2025-08-08 12:25:26 | INFO     | bot.py:38 - Starting bot
+2025-08-08 12:26:12 | ERROR    | core.py:144 - Ошибка в сессии базы данных: 'l10n_balance'
+2025-08-08 12:27:53 | INFO     | bot.py:46 - Bot stopped
+2025-08-08 12:27:53 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-08 12:27:53 | INFO     | db.py:34 - Database connection closed
+2025-08-08 12:27:57 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-08 12:27:57 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-08 12:27:57 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-08 12:27:57 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-08 12:27:57 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-08 12:27:57 | INFO     | db.py:16 - Redis initialized
+2025-08-08 12:27:57 | INFO     | bot.py:38 - Starting bot
+2025-08-08 12:28:06 | ERROR    | core.py:144 - Ошибка в сессии базы данных: 'l10n_balance'
+2025-08-08 12:29:00 | INFO     | bot.py:46 - Bot stopped
+2025-08-08 12:29:00 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-08 12:29:00 | INFO     | db.py:34 - Database connection closed
+2025-08-08 12:29:04 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-08 12:29:04 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-08 12:29:04 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-08 12:29:04 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-08 12:29:04 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-08 12:29:04 | INFO     | db.py:16 - Redis initialized
+2025-08-08 12:29:04 | INFO     | bot.py:38 - Starting bot
+2025-08-08 12:29:06 | ERROR    | core.py:144 - Ошибка в сессии базы данных: 'balance'
+2025-08-08 12:29:25 | INFO     | bot.py:46 - Bot stopped
+2025-08-08 12:29:25 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-08 12:29:25 | INFO     | db.py:34 - Database connection closed
+2025-08-08 12:32:31 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-08 12:32:31 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-08 12:32:31 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-08 12:32:31 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-08 12:32:31 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-08 12:32:31 | INFO     | db.py:16 - Redis initialized
+2025-08-08 12:32:31 | INFO     | bot.py:38 - Starting bot
+2025-08-08 12:32:55 | ERROR    | core.py:144 - Ошибка в сессии базы данных: 'balance'
+2025-08-08 12:33:30 | INFO     | bot.py:46 - Bot stopped
+2025-08-08 12:33:30 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-08 12:33:30 | INFO     | db.py:34 - Database connection closed
+2025-08-08 12:34:26 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-08 12:34:26 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-08 12:34:26 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-08 12:34:26 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-08 12:34:26 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-08 12:34:26 | INFO     | db.py:16 - Redis initialized
+2025-08-08 12:34:26 | INFO     | bot.py:38 - Starting bot
+2025-08-08 12:35:00 | INFO     | bot.py:46 - Bot stopped
+2025-08-08 12:35:00 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-08 12:35:00 | INFO     | db.py:34 - Database connection closed
+2025-08-08 12:52:07 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-08 12:52:07 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-08 12:52:07 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-08 12:52:07 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-08 12:52:07 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-08 12:52:07 | INFO     | db.py:16 - Redis initialized
+2025-08-08 12:52:07 | INFO     | bot.py:38 - Starting bot
+2025-08-08 12:54:00 | INFO     | bot.py:46 - Bot stopped
+2025-08-08 12:54:00 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-08 12:54:00 | INFO     | db.py:34 - Database connection closed
+2025-08-08 12:54:04 | INFO     | logger.py:73 - Логирование настроено. Файл логов: /home/aswiro/PyProjects/duyel-bot/logs/bot.log
+2025-08-08 12:54:04 | INFO     | logger.py:109 - Логирование для бота настроено
+2025-08-08 12:54:04 | INFO     | core.py:93 - Подключение к базе данных успешно
+2025-08-08 12:54:04 | INFO     | core.py:79 - База данных успешно инициализирована
+2025-08-08 12:54:04 | INFO     | core.py:107 - Таблицы базы данных созданы
+2025-08-08 12:54:04 | INFO     | db.py:16 - Redis initialized
+2025-08-08 12:54:04 | INFO     | bot.py:38 - Starting bot
+2025-08-08 12:54:52 | INFO     | bot.py:46 - Bot stopped
+2025-08-08 12:54:52 | INFO     | core.py:153 - Подключение к базе данных закрыто
+2025-08-08 12:54:52 | INFO     | db.py:34 - Database connection closed
