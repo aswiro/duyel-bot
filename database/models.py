@@ -1,5 +1,3 @@
-import enum
-
 from sqlalchemy import (
     BigInteger,
     Column,
@@ -14,43 +12,15 @@ from sqlalchemy import (
 from sqlalchemy.dialects.postgresql import ENUM
 from sqlalchemy.orm import declarative_base, relationship
 
+from database.status import (
+    GameStatusEnum,
+    GameTypeEnum,
+    TransactionTypeEnum,
+    WithdrawalStatusEnum,
+)
+
 # --- Базовая настройка SQLAlchemy ---
 Base = declarative_base()
-
-
-# --- Определение Enum-типов для PostgreSQL ---
-# Это лучший способ для работы со статусами, так как обеспечивает целостность данных на уровне БД
-
-
-class GameStatusEnum(enum.Enum):
-    pending = "pending"
-    active = "active"
-    completed = "completed"
-    cancelled = "cancelled"
-
-
-class TransactionTypeEnum(enum.Enum):
-    deposit = "deposit"
-    withdrawal = "withdrawal"
-    stake = "stake"
-    win = "win"
-    referral_bonus = "referral_bonus"
-
-
-class WithdrawalStatusEnum(enum.Enum):
-    pending = "pending"
-    approved = "approved"
-    completed = "completed"
-    rejected = "rejected"
-
-
-class GameTypeEnum(enum.Enum):
-    dice = "dice"
-    darts = "darts"
-    basketball = "basketball"
-    football = "football"
-    slot = "slot"
-    bowling = "bowling"
 
 
 # --- Модели данных ---
@@ -118,7 +88,8 @@ class Game(Base):
     winner_id = Column(BigInteger, ForeignKey("users.id"), nullable=True)
 
     stake_amount = Column(Numeric(15, 2), nullable=False)
-    commission_amount = Column(Numeric(15, 2), nullable=False, server_default="0.00")
+    bank_amount = Column(Numeric(15, 2), nullable=False)
+    commission_amount = Column(Numeric(15, 2), nullable=False, server_default="1.00")
     rolls_count = Column(Integer, nullable=False, server_default="3")
 
     status = Column(
@@ -128,6 +99,7 @@ class Game(Base):
     )
     created_at = Column(DateTime(timezone=True), server_default=func.now())
     finished_at = Column(DateTime(timezone=True), nullable=True)
+    comment = Column(Text, nullable=True)
 
     # Связи
     player1 = relationship("User", foreign_keys=[player1_id])

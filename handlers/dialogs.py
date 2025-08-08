@@ -7,6 +7,9 @@ from .windows import (
     my_games_window,
     support_window,
     create_game_window,
+    insufficient_balance_window,
+    max_games_window,
+    game_room_window,
 )
 
 
@@ -17,4 +20,9 @@ main_dialog = Dialog(
     games_window,
     my_games_window,
     create_game_window,
+    insufficient_balance_window,
+    max_games_window,
+)
+game_room_dialog = Dialog(
+    game_room_window,
 )

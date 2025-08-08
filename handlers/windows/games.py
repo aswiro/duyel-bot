@@ -3,12 +3,13 @@
 from aiogram import F
 from aiogram.types import CallbackQuery
 from aiogram_dialog import DialogManager, Window
-from aiogram_dialog.widgets.kbd import Button, Column, Group, Select
+from aiogram_dialog.widgets.kbd import Button, Column, Select
 from aiogram_dialog.widgets.text import Format
 
 from database import UnitOfWork
+from utils import decimal_to_float as dtf
 
-from ..states import DuelSG
+from ..states import DuelSG, GameRoom
 from ..widgets import GamesWindowWidgets
 
 
@@ -33,17 +34,18 @@ async def get_games_data(dialog_manager, **kwargs):
             {
                 "id": str(game.id),
                 "name": f"Игра #{game.id}",
-                "stake": f"{game.stake_amount} USD.",
+                "stake": f"{dtf(game.stake_amount):.2f} USD.",
             }
         )
 
     return {
         "user_name": full_name,
-        "balance": f"{user.balance}",
+        "balance": f"{dtf(user.balance):.2f} USD.",
         "games": games_list,
         "has_games": len(games_list) > 0,
         "games-welcome": l10n.format_value(
-            "games-welcome", {"user_name": full_name, "balance": user.balance}
+            "games-welcome",
+            {"user_name": full_name, "balance": dtf(user.balance)},
         ),
         "games-list": l10n.format_value("games-list"),
         "no-pending-games": l10n.format_value("no-pending-games"),
@@ -59,12 +61,14 @@ async def on_game_selected(
     """Обработчик выбора игры."""
     # Здесь можно добавить логику присоединения к игре
     await callback.answer(f"Выбрана игра #{game_id}")
+    dialog_manager.dialog_data.update({"game_id": game_id})
+    await dialog_manager.switch_to(GameRoom.game_room)
 
 
 games_window = Window(
     Format("{games-welcome}"),
     Format("{games-list}:", when="has_games"),
-    Group(
+    Column(
         Select(
             Format("🎮 {item[name]} - Ставка: {item[stake]}"),
             id="game_id",
@@ -72,7 +76,6 @@ games_window = Window(
             items="games",
             on_click=on_game_selected,
         ),
-        width=1,
         when="has_games",
     ),
     Format("{no-pending-games}", when=~F["has_games"]),
@@ -85,6 +88,7 @@ games_window = Window(
         ),
     ),
     GamesWindowWidgets.back_button(DuelSG.main_menu),
+    parse_mode="HTML",
     state=DuelSG.games_menu,
     getter=get_games_data,
 )
