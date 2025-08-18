@@ -62,8 +62,8 @@ class GameService:
         game_data["created_at"] = func.now()
         return await self.game_repo.create(game_data)
 
-    async def get_game(self, game_id: int) -> Game | None:
-        return await self.game_repo.get(game_id)
+    async def get_game(self, game_id: int, options: list = None) -> Game | None:
+        return await self.game_repo.get(game_id, options=options)
 
     async def get_user_games(
         self, user_id: int, status: GameStatusEnum = None

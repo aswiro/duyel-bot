@@ -51,18 +51,23 @@ class BaseRepository[ModelType, CreateSchemaType, UpdateSchemaType, FilterSchema
             raise NotImplementedError("Model is not set for repository")
         self.session = session
 
-    async def get(self, pk: Any) -> ModelType | None:
+    async def get(self, pk: Any, options: list = None) -> ModelType | None:
         """Получает запись по ID.
 
         Args:
             pk: Первичный ключ записи
+            options: Опции для загрузки связанных моделей (e.g., [selectinload(Model.related_model)])
 
         Returns:
             Найденная запись или None
         """
         try:
+            stmt = select(self.model)
+            if options:
+                stmt = stmt.options(*options)
+
             # Предполагаем, что поле ID называется 'id'
-            stmt = select(self.model).where(self.model.id == pk)
+            stmt = stmt.where(self.model.id == pk)
             result = await self.session.execute(stmt)
             return result.scalar_one_or_none()
 
@@ -108,37 +113,23 @@ class BaseRepository[ModelType, CreateSchemaType, UpdateSchemaType, FilterSchema
             raise
 
     async def create(self, obj_in: CreateSchemaType) -> ModelType:
-        """Создает новую запись в базе данных.
+        """Создает новую запись в базе данных."""
+        # Если obj_in это Pydantic модель, конвертируем в dict
+        if hasattr(obj_in, "model_dump"):
+            obj_data = obj_in.model_dump()
+        elif hasattr(obj_in, "dict"):
+            obj_data = obj_in.dict()
+        else:
+            obj_data = obj_in
 
-        Args:
-            obj_in: Данные для создания записи
-
-        Returns:
-            Созданная запись
-        """
-        try:
-            # Если obj_in это Pydantic модель, конвертируем в dict
-            if hasattr(obj_in, "model_dump"):
-                obj_data = obj_in.model_dump()
-            elif hasattr(obj_in, "dict"):
-                obj_data = obj_in.dict()
-            else:
-                obj_data = obj_in
-
-            db_obj = self.model(**obj_data)
-            self.session.add(db_obj)
-            await self.session.commit()
-            await self.session.refresh(db_obj)
-
-            logger.debug(
-                f"Создана запись {self.model.__name__} с ID: {getattr(db_obj, 'id', 'N/A')}"
-            )
-            return db_obj
-
-        except Exception as e:
-            await self.session.rollback()
-            logger.error(f"Ошибка при создании {self.model.__name__}: {e}")
-            raise
+        db_obj = self.model(**obj_data)
+        self.session.add(db_obj)
+        await self.session.flush()
+        await self.session.refresh(db_obj)
+        logger.debug(
+            f"Создана запись {self.model.__name__} с ID: {getattr(db_obj, 'id', 'N/A')}"
+        )
+        return db_obj
 
     async def update(self, pk: Any, obj_in: UpdateSchemaType) -> ModelType | None:
         """Обновляет запись по ID.

@@ -77,7 +77,7 @@ class Game(Base):
 
     __tablename__ = "games"
 
-    id = Column(BigInteger, primary_key=True)
+    id = Column(BigInteger().with_variant(Integer, "sqlite"), primary_key=True, autoincrement=True)
     game_type = Column(
         ENUM(GameTypeEnum, name="game_type_enum"),
         nullable=False,
@@ -124,7 +124,7 @@ class Roll(Base):
 
     __tablename__ = "rolls"
 
-    id = Column(BigInteger, primary_key=True)
+    id = Column(BigInteger().with_variant(Integer, "sqlite"), primary_key=True, autoincrement=True)
     game_id = Column(BigInteger, ForeignKey("games.id"), nullable=False, index=True)
     user_id = Column(BigInteger, ForeignKey("users.id"), nullable=False)
 
@@ -153,7 +153,7 @@ class Transaction(Base):
 
     __tablename__ = "transactions"
 
-    id = Column(BigInteger, primary_key=True)
+    id = Column(BigInteger().with_variant(Integer, "sqlite"), primary_key=True, autoincrement=True)
     user_id = Column(BigInteger, ForeignKey("users.id"), nullable=False, index=True)
     game_id = Column(BigInteger, ForeignKey("games.id"), nullable=True)
 
@@ -186,7 +186,7 @@ class WithdrawalRequest(Base):
 
     __tablename__ = "withdrawal_requests"
 
-    id = Column(BigInteger, primary_key=True)
+    id = Column(BigInteger().with_variant(Integer, "sqlite"), primary_key=True, autoincrement=True)
     user_id = Column(BigInteger, ForeignKey("users.id"), nullable=False, index=True)
 
     amount = Column(Numeric(15, 2), nullable=False)
@@ -222,7 +222,7 @@ class ReferralEarning(Base):
 
     __tablename__ = "referral_earnings"
 
-    id = Column(BigInteger, primary_key=True)
+    id = Column(BigInteger().with_variant(Integer, "sqlite"), primary_key=True, autoincrement=True)
     referrer_id = Column(BigInteger, ForeignKey("users.id"), nullable=False, index=True)
     referral_id = Column(BigInteger, ForeignKey("users.id"), nullable=False)
     source_game_id = Column(BigInteger, ForeignKey("games.id"), nullable=True)

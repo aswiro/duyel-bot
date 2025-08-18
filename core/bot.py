@@ -1,6 +1,6 @@
 from aiogram import Bot, Dispatcher
 from aiogram.client.default import DefaultBotProperties
-from aiogram_dialog import setup_dialogs
+from aiogram_dialog import BgManagerFactory, setup_dialogs
 from loguru import logger
 
 from configs import settings
@@ -33,6 +33,8 @@ async def bot_init():
     # Инициализация роутеров
     await routers_init(dp)
     dp["settings"] = settings
+    dp["bot"] = bot
+    dp["bg_manager_factory"] = BgManagerFactory(dp)
 
     # Запускаем бота
     logger.info("Starting bot")

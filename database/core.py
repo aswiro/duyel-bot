@@ -36,28 +36,31 @@ class Database:
         self.session_factory: async_sessionmaker[AsyncSession] | None = None
         self._initialized = False
 
-    async def initialize(self) -> None:
+    async def initialize(self, db_url: str | None = None) -> None:
         """Инициализирует подключение к базе данных."""
         if self._initialized:
             logger.warning("База данных уже инициализирована")
             return
 
         try:
+            db_url = db_url or settings.database_url
             # Создаем движок базы данных
-            self.engine = create_async_engine(
-                settings.database_url,
-                echo=settings.database_echo,
-                pool_size=settings.pool_size,
-                max_overflow=settings.max_overflow,
-                pool_timeout=settings.pool_timeout,
-                pool_recycle=settings.pool_recycle,
-                # connect_args без statement_timeout
-                connect_args={
-                    "server_settings": {
-                        "jit": "off",  # Отключаем JIT для стабильности
+            engine_args = {
+                "echo": settings.database_echo and "sqlite" not in db_url,
+            }
+            if "sqlite" not in db_url:
+                engine_args.update({
+                    "pool_size": settings.pool_size,
+                    "max_overflow": settings.max_overflow,
+                    "pool_timeout": settings.pool_timeout,
+                    "pool_recycle": settings.pool_recycle,
+                    "connect_args": {
+                        "server_settings": {
+                            "jit": "off",
+                        },
                     },
-                },
-            )
+                })
+            self.engine = create_async_engine(db_url, **engine_args)
 
             # Создаем фабрику сессий
             self.session_factory = async_sessionmaker(
@@ -69,11 +72,12 @@ class Database:
             # Проверяем подключение
             await self._check_connection()
 
-            # Устанавливаем statement_timeout через отдельный SQL-запрос
-            async with self.engine.begin() as conn:
-                await conn.execute(
-                    text(f"SET statement_timeout = {settings.query_timeout}")
-                )
+            # Устанавливаем statement_timeout через отдельный SQL-запрос (только для postgres)
+            if "sqlite" not in db_url:
+                async with self.engine.begin() as conn:
+                    await conn.execute(
+                        text(f"SET statement_timeout = {settings.query_timeout}")
+                    )
 
             self._initialized = True
             logger.info("База данных успешно инициализирована")

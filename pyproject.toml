@@ -16,3 +16,25 @@ dependencies = [
     "redis>=6.2.0",
     "sqlalchemy>=2.0.42",
 ]
+
+[project.optional-dependencies]
+test = [
+    "pytest>=8.4.0",
+    "pytest-asyncio>=0.24.0",
+    "aiosqlite>=0.20.0",
+]
+
+[tool.setuptools]
+packages = [
+    "core",
+    "cache",
+    "filters",
+    "configs",
+    "database",
+    "handlers",
+    "middlewares",
+    "localization",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
